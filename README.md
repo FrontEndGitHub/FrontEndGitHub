@@ -5,6 +5,10 @@
 
 > **专注于挖掘优秀的前端开源项目，抹平你的前端信息不对称，涵盖 JavaScript、Vue、React、Node、小程序、Flutter、Deno、HTML、CSS 等。**
 
+
+> 2021 年 Web 前端最新导航: https://www.kwgg2020.com
+
+
 ## 简介
 
 
@@ -32,6 +36,12 @@
 #### | 数据结构与算法
 
 - [**GitHub 上值得前端学习的数据结构与算法项目**](https://github.com/biaochenxuying/FrontEndGitHub/issues/2)
+- 精彩待续。。。
+
+
+#### | 开发思想
+
+- [**Github标星1.6W+，程序员不得不知的“潜规则”又火了，早知道就不会秃头了**](https://github.com/biaochenxuying/FrontEndGitHub/issues/3)
 - 精彩待续。。。
 
 
