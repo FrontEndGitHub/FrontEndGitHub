@@ -28,6 +28,11 @@
 
 ## 文章
 
+#### | 软技能
+
+- [**恕我直言，你可能连 GitHub 搜索都不会用 - 如何精准搜索的神仙技巧**](https://github.com/biaochenxuying/FrontEndGitHub/issues/4)
+- 精彩待续。。。
+
 #### | WEB技术清单
 
 - [**2020-WEB开发路线图，和即将到来的 2021-WEB技术清单**](https://github.com/biaochenxuying/FrontEndGitHub/issues/1)
@@ -49,6 +54,20 @@
 
 大家可以向我推荐好的开源项目哦！
 
-微信：**CB834301747**
+
+> 欢迎关注公众号：前端GitHub ，每周会有一到三篇的文章推送。
+
+<div align="center">
+
+![FrontEndGitHub](./images/FrontEndGitHub.png)
+
+</div>
+
+
+> 微信：**CB834301747**
+
+<div align="center">
 
 ![CB834301747](./images/CB834301747.jpeg)
+
+</div>
