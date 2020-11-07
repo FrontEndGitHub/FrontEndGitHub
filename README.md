@@ -1,6 +1,9 @@
 
+<div align="center">
+
 ![FrontEndGitHub](./images/FrontEndGitHubLogo.png)
 
+</div>
 
 
 > **专注于挖掘优秀的前端开源项目，抹平你的前端信息不对称，涵盖 JavaScript、Vue、React、Node、小程序、Flutter、Deno、HTML、CSS 等。**
@@ -28,26 +31,82 @@
 
 ## 文章
 
-#### | 软技能
+### | 软技能
 
 - [**恕我直言，你可能连 GitHub 搜索都不会用 - 如何精准搜索的神仙技巧**](https://github.com/biaochenxuying/FrontEndGitHub/issues/4)
 - 精彩待续。。。
 
-#### | WEB技术清单
+---
+
+| 项目 | 地址 |
+| --- | --- |
+| GitHub 官方文档：使用、搜索、管理开源项目 | [https://docs.github.com/cn](https://docs.github.com/cn) |
+
+
+
+
+### | WEB 技术清单
 
 - [**2020-WEB开发路线图，和即将到来的 2021-WEB技术清单**](https://github.com/biaochenxuying/FrontEndGitHub/issues/1)
 - 精彩待续。。。
 
-#### | 数据结构与算法
+---
 
-- [**GitHub 上值得前端学习的数据结构与算法项目**](https://github.com/biaochenxuying/FrontEndGitHub/issues/2)
+| 项目 | 地址 |
+| --- | --- |
+| developer-roadmap：开发人员路线图，循序渐进的指南和路径，以学习不同的工具或技术 | [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) |
+
+
+### | 数据结构与算法
+
+- [**GitHub上最火的、最值得前端学习的数据结构与算法项目！没有之一**](https://github.com/biaochenxuying/FrontEndGitHub/issues/2)
 - 精彩待续。。。
 
+---
 
-#### | 开发思想
+| 项目 | 地址 |
+| --- | --- |
+|  javascript-algorithms：含了多种基于 JavaScript 的算法与数据结构 | [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) |
+| algorithm-visualizer：算法可视化工具是一个交互式的在线平台，可以从代码中可视化算法 | [https://github.com/algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) |
+| algo：数据结构和算法必知必会的 50 个代码实现 | [https://github.com/wangzheng0822/algo](https://github.com/wangzheng0822/algo) |
+| awesome-algorithms：包含不同著名计算机科学算法的 javascript 实现 | [https://github.com/mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) |
+| JS-Sorting-Algorithm：关于排序算法的 GitBook 在线书籍 《十大经典排序算法》 | [https://github.com/hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) |
+| JavaScript 数据结构与算法之美：包含了 十大经典排序算法 的思想、代码实现、一些例子、复杂度分析、动画 | [https://github.com/biaochenxuying/blog](https://github.com/biaochenxuying/blog#-javascript-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E) |
+| daily-algorithms：算法，每日练习的一个项目 | [https://github.com/barretlee/daily-algorithms](https://github.com/barretlee/daily-algorithms) |
+| JavaScript 更多 ... | [https://github.com/search?l=JavaScript&o=desc&q=algo&s=stars&type=Repositories](https://github.com/search?l=JavaScript&o=desc&q=algo&s=stars&type=Repositories) |
+
+
+### | 前端的代码规范
+
+- [**恕我直言，这几个大厂的前端代码规范你可能还不会 - 能精进前端的代码规范**](https://github.com/biaochenxuying/FrontEndGitHub/issues/5)
+- 精彩待续。。。
+
+---
+
+| 项目 | 地址 |
+| --- | --- |
+| 腾讯 |  [http://tgideas.qq.com/doc/index.html](http://tgideas.qq.com/doc/index.html) |
+| 京东 | [https://guide.aotu.io/index.html](https://guide.aotu.io/index.html) |
+| 阿里巴巴 | [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript) |
+| 百度 | [https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md](https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md) |
+| JavaScript Standard Style | [https://github.com/standard/standard](https://github.com/standard/standard) |
+| Vue | [https://cn.vuejs.org/v2/style-guide/index.html](https://cn.vuejs.org/v2/style-guide/index.html) |
+| ES6 | [http://es6.ruanyifeng.com/#docs/style](http://es6.ruanyifeng.com/#docs/style) |
+| Bootstrap | [https://codeguide.bootcss.com/](https://codeguide.bootcss.com/) |
+| ESLint | [https://eslint.org/](https://eslint.org/) |
+| Prettier | [https://prettier.io/](https://prettier.io/) |
+
+
+### | 开发思想
 
 - [**Github标星1.6W+，程序员不得不知的“潜规则”又火了，早知道就不会秃头了**](https://github.com/biaochenxuying/FrontEndGitHub/issues/3)
 - 精彩待续。。。
+
+---
+
+| 项目 | 地址 |
+| --- | --- |
+| hacker-laws：最常见的定律、原则等 | [https://github.com/nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) |
 
 
 ## 撩我
