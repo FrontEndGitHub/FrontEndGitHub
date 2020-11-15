@@ -32,6 +32,12 @@
 
 平时如何发现好的开源项目，可以看看这篇文章：[GitHub 上能挖矿的神仙技巧 - 如何发现优秀开源项目](https://github.com/biaochenxuying/blog/issues/45)。
 
+<div align="center">
+
+![](https://upload-images.jianshu.io/upload_images/12890819-6fd605f528682683.gif?imageMogr2/auto-orient/strip)
+
+</div>
+
 ## 文章
 
 ### | 软技能
@@ -129,6 +135,14 @@
 
 ---
 ## 撩我
+
+
+<div align="center">
+
+![](https://upload-images.jianshu.io/upload_images/12890819-45092d7cc1d40d4e.gif?imageMogr2/auto-orient/strip)
+
+</div>
+
 
 大家可以向我推荐好的开源项目哦！
 
