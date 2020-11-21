@@ -117,7 +117,7 @@
 
 ### | CSS 学习专题
 
-- [**[10 个 GitHub 上超火的 CSS 技巧项目，找到写 CSS 的灵感！](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/7)**](https://github.com/biaochenxuying/FrontEndGitHub/issues/7)
+- [**[10 个 GitHub 上超火的 CSS 技巧项目，找到写 CSS 的灵感！]**](https://github.com/biaochenxuying/FrontEndGitHub/issues/7)
 - 精彩待续。。。
 
 
