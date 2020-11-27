@@ -191,7 +191,7 @@
 
 ---
 
-## JavaScript
+### | JavaScript
 
 
 | 项目 | 地址 |
@@ -208,7 +208,7 @@
 
 ---
 
-## 技术社区
+### | 技术社区
 
 
 | 项目 | 地址 |
@@ -229,7 +229,7 @@
 
 ---
 
-## 博客团队
+### | 博客团队
 
 
 | 项目 | 地址 |
@@ -246,7 +246,7 @@
 | 夜尽天明 | [https://github.com/biaochenxuying/blog](https://github.com/biaochenxuying/blog) |
 
 
-## GitHub 统计
+### | GitHub 统计
 
 
 | 项目 | 地址 |
@@ -255,7 +255,7 @@
 | GitHub 中文排行榜、高分优秀中文项目 | [https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) |
 
 
-## 前端大会
+### | 前端大会
 
 
 
@@ -267,7 +267,7 @@
 | D2 前端技术论坛：阿里巴巴举办，分享技术的乐趣，探讨行业的发展 | [http://d2forum.alibaba-inc.com/](http://d2forum.alibaba-inc.com/) |
 
 
-## 构建
+### | 构建
 
 
 | 项目 | 地址 |
@@ -280,7 +280,7 @@
 | ESLint：可组装的 JavaScript 和 JSX 检查工具 | [https://cn.eslint.org/](https://cn.eslint.org/) |
 | PostCSS：用 JavaScript 工具和插件转换 CSS 代码的工具 | [https://www.postcss.com.cn/](https://www.postcss.com.cn/) |
 
-## 调试抓包
+### | 调试抓包
 
 
 | 项目 | 地址 |
@@ -290,7 +290,7 @@
 | Fiddler：代理抓包工具 | [https://www.telerik.com/fiddler](https://www.telerik.com/fiddler) |
 
 
-## 开发工具
+### | 开发工具
 
 
 | 项目 | 地址 |
@@ -301,7 +301,7 @@
 | Atom | [https://atom.io/](https://atom.io/) |
 
 
-## 在线工具
+### | 在线工具
 
 
 | 项目 | 地址 |
@@ -314,7 +314,7 @@
 
 
 
-## 图标
+### | 图标
 
 
 | 项目 | 地址 |
@@ -327,7 +327,7 @@
 | Tabler Icons：681 枚可定制的开源 SVG 图标 | [https://tablericons.com/](https://tablericons.com/) |
 
 
-## 色彩
+### | 色彩
 
 
 | 项目 | 地址 |
@@ -342,7 +342,7 @@
 
 
 
-## 插画
+### | 插画
 
 
 | 项目 | 地址 |
@@ -356,7 +356,7 @@
 
 
 
-## 图片
+### | 图片
 
 
 
@@ -374,7 +374,7 @@
 
 
 
-## 工具
+### | 工具
 
 
 | 项目 | 地址 |
@@ -387,7 +387,7 @@
 | Shape Divider：定制各种形状的网站分区 SVG 的工具 | [https://www.shapedivider.app/](https://www.shapedivider.app/) |
 
 
-## 设计工具
+### | 设计工具
 
 
 
@@ -400,7 +400,7 @@
 
 
 
-#### | 学习资源
+### | 学习资源
 
 - [1. **160+ 本技术类常用精华电子书开源了，包括 前端、后端、数据结构与算法、计算机基础、设计模式、数据库等书籍**](https://github.com/biaochenxuying/awesome-books)
 - [2. 极客时间上的《TypeScript 开发实战》课程资源，包含课件、思维导图、课程源代码](https://github.com/biaochenxuying/blog/tree/master/typescript-in-action)
