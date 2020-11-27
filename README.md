@@ -84,6 +84,28 @@
 
 
 ---
+### | 管理后台 admin
+
+- [**10 个 GitHub 上超火和超好看的管理后台模版，后台管理项目有着落了单**](https://github.com/biaochenxuying/FrontEndGitHub/issues/8)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| vue-Element-Admin：后台前端解决方案，它基于 vue 和 element-ui 实现 | [https://github.com/PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) |
+| iview-admin：基于 Vue.js，搭配使用 iView UI 组件库形成的一套后台集成解决方案 | [https://github.com/iview/iview-admin](https://github.com/iview/iview-admin) |
+| vue-admin-template：极简的 vue admin 管理后台 | [https://github.com/PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) |
+| ant-design-pro：Ant Design Pro 是基于 Ant Design 和 umi 的封装的一整套企业级中后台前端/设计解决方案 | [https://github.com/ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) |
+| ngx-admin：基于Angular 10+ 的可定制管理仪表板模，还拥有 6 个惊人的视觉主题 | [https://github.com/akveo/ngx-admin](https://github.com/akveo/ngx-admin) |
+| vue-admin-beautiful：基于 vue+element-ui 的绝佳的中后台前端开发管理框架 | [https://github.com/chuzhixin/vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) |
+| vuestic-admin：免费与美妙 Vue.js 管理模板，包括 38 以上个定制用户界面组件 | [https://github.com/epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) |
+| antd-admin：一套优秀的中后台前端解决方案 | [https://github.com/zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) |
+| eladmin：SpringBoot、Jpa、Security、Redis、Vue 等前后端前沿技术开发 | [https://github.com/elunez/eladmin](https://github.com/elunez/eladmin) |
+| AdminLTE：是一个完全响应的管理模板。基于 Bootstrap 4.5 框架以及 JS / jQuery 插件 | [https://github.com/almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE) |
+
+
+---
+
 ### | WEB 技术清单
 
 - [**2020-WEB开发路线图，和即将到来的 2021-WEB技术清单**](https://github.com/biaochenxuying/FrontEndGitHub/issues/1)
@@ -377,6 +399,14 @@
 | PxCook（像素大厨）：高效易用的自动标注工具 | [https://www.fancynode.com.cn/pxcook](https://www.fancynode.com.cn/pxcook) |
 
 
+
+#### | 学习资源
+
+- [1. **160+ 本技术类常用精华电子书开源了，包括 前端、后端、数据结构与算法、计算机基础、设计模式、数据库等书籍**](https://github.com/biaochenxuying/awesome-books)
+- [2. 极客时间上的《TypeScript 开发实战》课程资源，包含课件、思维导图、课程源代码](https://github.com/biaochenxuying/blog/tree/master/typescript-in-action)
+- [3. 视频资料分享 - Vue、React、Node、MongoDB 全栈、打造商城系统、实战项目汇总](https://mp.weixin.qq.com/s/7f767Y5FHM9i2_GeUSz-Iw)
+
+
 ## 撩我
 
 
@@ -390,7 +420,7 @@
 大家可以向我推荐好的开源项目哦！
 
 
-> 欢迎关注公众号：前端GitHub ，每周会有一到三篇的文章推送。
+> 欢迎关注公众号：**前端GitHub**，每周会有一到三篇的文章推送，后台回复 “**电子书**”，获取 160+ 本前端精华电子书哦。
 
 <div align="center">
 
