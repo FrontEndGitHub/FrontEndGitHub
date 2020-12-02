@@ -12,9 +12,6 @@
 > 2021 前端最强的学习导航: https://www.kwgg2020.com
 
 
-
-
-
 <div align="center">
 
 ![](https://upload-images.jianshu.io/upload_images/12890819-61e533eb9988f8b1.gif?imageMogr2/auto-orient/strip)
@@ -46,6 +43,14 @@
 <div align="center">
 
 ![](https://upload-images.jianshu.io/upload_images/12890819-6fd605f528682683.gif?imageMogr2/auto-orient/strip)
+
+</div>
+
+> 欢迎关注公众号：**前端GitHub**，每周会有一到三篇的文章推送，后台回复 “**电子书**”，获取 160+ 本前端精华电子书哦。
+
+<div align="center">
+
+![FrontEndGitHub](./images/FrontEndGitHub.png)
 
 </div>
 
@@ -81,6 +86,29 @@
 | node-interview：饿了么大前端的面试 | [https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn) |
 | Front-End-Interview-Notebook：前端复习笔记 | [https://github.com/CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) |
 | FE-Interview：前端面试必备题库  | [https://github.com/lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) |
+
+
+---
+
+### | 前端必备在线工具
+
+- [**白嫖 11 个超火的前端必备在线工具，终于有时间上班摸鱼了**](https://github.com/biaochenxuying/FrontEndGitHub/issues/9)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| LightHouse：一个开源的自动化工具，用于改进网络应用的质量 | [https://github.com/GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) |
+| Can I Use：查询 CSS、Js 在个中流行浏览器钟的特性和兼容性的网站 | [https://caniuse.com/](https://caniuse.com/) |
+| Carbon：在线的代码转图片工具 | [https://carbon.now.sh/](https://carbon.now.sh/) |
+| ios font：IOS 字体支持查询和 IOS 系统自带字体查询 | [http://iosfonts.com/](http://iosfonts.com/) |
+| web 安全色：尽量让用户看到色彩相同的网页，请尽量使用 216 色的 web 安全色 | [https://www.bootcss.com/p/websafecolors/](https://www.bootcss.com/p/websafecolors/) |
+| TinyPNG：PNG/JPG 图片在线压缩利器，智能 PNG 和 JPEG 图片压缩 | [https://tinypng.com/](https://tinypng.com/) |
+| 二维码生成器：草料二维码生成器 | [https://cli.im/](https://cli.im/) |
+| Shape Divider：定制各种形状的网站分区 SVG 的工具 | [https://www.shapedivider.app/](https://www.shapedivider.app/) |
+| json 格式化： json 在线解析的网站 | [http://json.cn/](http://json.cn/) |
+| sojson：前端WEB工具大合集 | [https://www.sojson.com/](https://www.sojson.com/) |
+| 站长工具：站长的必备工具 | [https://tool.chinaz.com/](https://tool.chinaz.com/) |
 
 
 ---
