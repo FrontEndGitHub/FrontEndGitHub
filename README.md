@@ -134,6 +134,20 @@
 
 ---
 
+### | 逼格满满的 PPT
+
+- [**GitHub 标星 54K + 2K！这才是程序员写逼格满满的 PPT 的正确姿势！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/10)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| reveal-md：使用 Markdown 来做 PPT 展示的开源项目 | [https://github.com/webpro/reveal-md](https://github.com/webpro/reveal-md) |
+| reveal.js：使用 html、markdown 写静态的文本，创建功能齐全且美观的 PPT | [https://github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js) |
+
+
+---
+
 ### | WEB 技术清单
 
 - [**2020-WEB开发路线图，和即将到来的 2021-WEB技术清单**](https://github.com/biaochenxuying/FrontEndGitHub/issues/1)
@@ -197,7 +211,7 @@
 | --- | --- |
 | 腾讯 |  [http://tgideas.qq.com/doc/index.html](http://tgideas.qq.com/doc/index.html) |
 | 京东 | [https://guide.aotu.io/index.html](https://guide.aotu.io/index.html) |
-| 阿里巴巴 | [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript) |
+| airbnb | [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript) |
 | 百度 | [https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md](https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md) |
 | JavaScript Standard Style | [https://github.com/standard/standard](https://github.com/standard/standard) |
 | Vue | [https://cn.vuejs.org/v2/style-guide/index.html](https://cn.vuejs.org/v2/style-guide/index.html) |
@@ -329,19 +343,6 @@
 | Atom | [https://atom.io/](https://atom.io/) |
 
 
-### | 在线工具
-
-
-| 项目 | 地址 |
-| --- | --- |
-| CodePen：在线代码测试工具 | [https://codepen.io/](https://codepen.io/) |
-| Can I use：Web前端兼容性列表 | [https://caniuse.com/](https://caniuse.com/) |
-| TinyPNG：PNG/JPG 图片在线压缩利器 | [https://tinypng.com/](https://tinypng.com/) |
-| CNZZ站点统计：国内常用的站点统计工具 | [https://www.umeng.com/](https://www.umeng.com/) |
-
-
-
-
 ### | 图标
 
 
@@ -401,23 +402,7 @@
 | Bulk Resize Photos：最快的在线图片缩放工具（图片缩放和压缩在本地完成，无需上传到服务器 | [https://bulkresizephotos.com/en](https://bulkresizephotos.com/en) |
 
 
-
-### | 工具
-
-
-| 项目 | 地址 |
-| --- | --- |
-| web.dev：评测网站性能（基于 Lighthouse） | [https://web.dev/measure/](https://web.dev/measure/) |
-| GTmetrix：网页性能分析工具 | [https://gtmetrix.com/](https://gtmetrix.com/) |
-| Can I Use：前端技术的浏览器支持情况 | [https://caniuse.com/](https://caniuse.com/) |
-| Carbon：代码转图片工具 | [https://carbon.now.sh/](https://carbon.now.sh/) |
-| Wappalyzer：检测某个网站使用的技术栈 | [https://www.wappalyzer.com/](https://www.wappalyzer.com/) |
-| Shape Divider：定制各种形状的网站分区 SVG 的工具 | [https://www.shapedivider.app/](https://www.shapedivider.app/) |
-
-
 ### | 设计工具
-
-
 
 
 | 项目 | 地址 |
