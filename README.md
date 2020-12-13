@@ -20,25 +20,17 @@
 
 ## 简介
 
-大家好，我是你们的 超级猫，一个不喜欢吃鱼、又不喜欢喵 的超级猫 ~
+大家好，我是你们的 猫哥，一个不喜欢吃鱼、又不喜欢喵 的超级猫 ~
 
-一般人没事的时候刷刷朋友圈、微博、电视剧、知乎，而有些人是没事的时候刷刷 GitHub ，看看最近有哪些流行的项目。
+本项目专注于挖掘 GitHub 上优秀的前端开源项目，并以专题的形式推荐，每专题大概 10 个好项目，每周会有一到三篇精华文章推送。
 
-久而久之，这差距就越来越大，因此总会有开源信息的不对称，有哪些优秀的前端开源项目值得学习的也不知道。
+已经推荐了 面试项目、css奇技淫巧项目、代码规范项目、数据结构与算法项目、管理后台模板、前端必备在线工具 等专题的近 100 个优秀项目了。
 
 初步前端与高级前端之间，最大的差距可能就是信息差造成的。
 
-超级猫从 2016 年加入 GitHub，到现在的 2020 年，快整整 5 个年头了。
-
-从 2018 年开始，我就养成了每天逛 GitHub 的习惯，一般在早上上班前或者中午午休的时候都会逛一下。
-
-看看每天都开源了哪些好的前端项目，还有用到的主流前端技术栈又是哪些，值得我去学习的。
-
-因此也收藏了不少好的开源项目，在此推荐给大家，每周会有一到三篇精华文章推送。
-
 希望你在浏览、学习了超级猫推荐的这些开源项目的过程中，你能学习到更多编程知识、提高编程技巧、找到编程的乐趣。
 
-平时如何发现好的开源项目，可以看看这篇文章：[GitHub 上能挖矿的神仙技巧 - 如何发现优秀开源项目](https://github.com/biaochenxuying/blog/issues/45)。
+平时如何发现好的开源项目，可以看看这篇文章：[GitHub 上能挖矿的神仙技巧 - 如何发现优秀开源项目](https://mp.weixin.qq.com/s/98P-ARrYlkmog8i79zX6Og)。
 
 <div align="center">
 
@@ -58,6 +50,7 @@
 
 ### | 软技能
 
+- [**自从掌握了Google和百度的 16 个高级搜索技巧，我再也没有解决不了的 bug 了**](https://github.com/biaochenxuying/FrontEndGitHub/issues/11)
 - [**恕我直言，你可能连 GitHub 搜索都不会用 - 如何精准搜索的神仙技巧**](https://github.com/biaochenxuying/FrontEndGitHub/issues/4)
 - 精彩待续。。。
 
@@ -66,7 +59,7 @@
 | --- | --- |
 | GitHub 官方文档：使用、搜索、管理开源项目 | [https://docs.github.com/cn](https://docs.github.com/cn) |
 
----
+
 ### | 面试专题
 
 - [**推荐这 10 个 GitHub 上超火的前端面试项目，打造自己的加薪宝库！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/6)
@@ -88,7 +81,27 @@
 | FE-Interview：前端面试必备题库  | [https://github.com/lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) |
 
 
----
+### | JavaScript
+
+- [**12 个 GitHub 上超火的 JavaScript 奇技淫巧项目，找到写 JavaScript 的灵感！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/14)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| 30-seconds-of-code：简短代码段，经常会用到而且是非常经典的代码 | [https://github.com/30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) |
+| 33-js-concepts：JavaScript开发者应懂的 33 个概念 | [https://github.com/leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) |
+| javascript-questions：JavaScript 进阶问题列表 | [https://github.com/lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) |
+| JavaScript 30：使用原生 JavaScript 在 30 天内完成 30 个项目 | [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) |
+| Codewars：和 leetcode 有点类似，也是在平台上和其他人一起完成真实的代码挑战，提升你的技术 | [https://www.codewars.com/](https://www.codewars.com/) |
+| ES6 入门教程：开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性 | [https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/) |
+| JavaScript 教程：全面介绍 JavaScript 核心语法，覆盖了 ES5 和 DOM 规范的所有内容 | [https://wangdoc.com/javascript/](https://wangdoc.com/javascript/) |
+| 现代 JavaScript 教程：以最新的 JavaScript 标准为基准。从基础到高阶的 JavaScript 相关知识 | [https://zh.javascript.info/](https://zh.javascript.info/) |
+| MDN：提供开放网络(Open Web)技术有关的信息,包括用于网站和渐进式网络应用的 HTML、CSS 和 API | [https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/) |
+| clean-code-javascript：优秀的 JS 代码规范 | [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) |
+| TypeScript 入门教程：从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript | [https://ts.xcatliu.com](https://ts.xcatliu.com) |
+| w3school：前端必须知道的 Web 技术教程平台 | [https://www.w3school.com.cn/js/index.asp](https://www.w3school.com.cn/js/index.asp) |
+
 
 ### | 前端必备在线工具
 
@@ -110,8 +123,6 @@
 | sojson：前端WEB工具大合集 | [https://www.sojson.com/](https://www.sojson.com/) |
 | 站长工具：站长的必备工具 | [https://tool.chinaz.com/](https://tool.chinaz.com/) |
 
-
----
 ### | 管理后台 admin
 
 - [**10 个 GitHub 上超火和超好看的管理后台模版，后台管理项目有着落了单**](https://github.com/biaochenxuying/FrontEndGitHub/issues/8)
@@ -132,7 +143,6 @@
 | AdminLTE：是一个完全响应的管理模板。基于 Bootstrap 4.5 框架以及 JS / jQuery 插件 | [https://github.com/almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE) |
 
 
----
 
 ### | 逼格满满的 PPT
 
@@ -146,28 +156,15 @@
 | reveal.js：使用 html、markdown 写静态的文本，创建功能齐全且美观的 PPT | [https://github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js) |
 
 
----
-
-### | WEB 技术清单
-
-- [**2020-WEB开发路线图，和即将到来的 2021-WEB技术清单**](https://github.com/biaochenxuying/FrontEndGitHub/issues/1)
-- 精彩待续。。。
-
-
-| 项目 | 地址 |
-| --- | --- |
-| developer-roadmap：开发人员路线图，循序渐进的指南和路径，以学习不同的工具或技术 | [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) |
-
----
 ### | 数据结构与算法
 
-- [**GitHub上最火的、最值得前端学习的数据结构与算法项目！没有之一**](https://github.com/biaochenxuying/FrontEndGitHub/issues/2)
+- [**7 个GitHub上最火的、最值得前端学习的数据结构与算法项目！没有之一**](https://github.com/biaochenxuying/FrontEndGitHub/issues/2)
 - 精彩待续。。。
 
 
 | 项目 | 地址 |
 | --- | --- |
-|  javascript-algorithms：含了多种基于 JavaScript 的算法与数据结构 | [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) |
+| javascript-algorithms：含了多种基于 JavaScript 的算法与数据结构 | [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) |
 | algorithm-visualizer：算法可视化工具是一个交互式的在线平台，可以从代码中可视化算法 | [https://github.com/algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) |
 | algo：数据结构和算法必知必会的 50 个代码实现 | [https://github.com/wangzheng0822/algo](https://github.com/wangzheng0822/algo) |
 | awesome-algorithms：包含不同著名计算机科学算法的 javascript 实现 | [https://github.com/mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) |
@@ -177,7 +174,6 @@
 | JavaScript 更多 ... | [https://github.com/search?l=JavaScript&o=desc&q=algo&s=stars&type=Repositories](https://github.com/search?l=JavaScript&o=desc&q=algo&s=stars&type=Repositories) |
 
 
----
 
 ### | CSS 学习专题
 
@@ -199,7 +195,6 @@
 | stylus：富有表现力、动态、健壮的 CSS | [https://stylus-lang.com/](https://stylus-lang.com/) |
 
 
----
 
 ### | 前端的代码规范
 
@@ -220,7 +215,7 @@
 | ESLint | [https://eslint.org/](https://eslint.org/) |
 | Prettier | [https://prettier.io/](https://prettier.io/) |
 
----
+
 ### | 开发思想
 
 - [**Github标星1.6W+，程序员不得不知的“潜规则”又火了，早知道就不会秃头了**](https://github.com/biaochenxuying/FrontEndGitHub/issues/3)
@@ -231,7 +226,7 @@
 | --- | --- |
 | hacker-laws：最常见的定律、原则等 | [https://github.com/nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) |
 
----
+
 
 ### | JavaScript
 
@@ -248,7 +243,6 @@
 | Node.js学习 | [https://blog.poetries.top/node-learning-notes/](https://blog.poetries.top/node-learning-notes/) |
 
 
----
 
 ### | 技术社区
 
@@ -269,7 +263,6 @@
 | 印记中文：是最权威是技术中文文档社区 | [https://docschina.org/](https://docschina.org/) |
 
 
----
 
 ### | 博客团队
 
@@ -412,6 +405,30 @@
 | PxCook（像素大厨）：高效易用的自动标注工具 | [https://www.fancynode.com.cn/pxcook](https://www.fancynode.com.cn/pxcook) |
 
 
+### | WEB 技术清单
+
+- [**2020-WEB开发路线图，和即将到来的 2021-WEB技术清单**](https://github.com/biaochenxuying/FrontEndGitHub/issues/1)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| developer-roadmap：开发人员路线图，循序渐进的指南和路径，以学习不同的工具或技术 | [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) |
+
+
+**前端开发路线图**
+
+![frontend-map.png](./images/frontend-map.png)
+
+**后端开发路线图**
+
+![frontend-map.png](./images/backend-map.png)
+
+
+**运维开发路线图**
+
+![devops-map.png](./images/devops-map.png)
+
 
 ### | 学习资源
 
@@ -420,7 +437,14 @@
 - [3. 视频资料分享 - Vue、React、Node、MongoDB 全栈、打造商城系统、实战项目汇总](https://mp.weixin.qq.com/s/7f767Y5FHM9i2_GeUSz-Iw)
 
 
+## 推荐项目
+
+- [大家有什么好的开源项目，可以在这里面推荐哦](https://github.com/FrontEndGitHub/FrontEndGitHub/discussions/13)
+
 ## 撩我
+
+
+- [关于猫哥，请点这里](https://github.com/biaochenxuying)
 
 
 <div align="center">
@@ -428,9 +452,6 @@
 ![](https://upload-images.jianshu.io/upload_images/12890819-45092d7cc1d40d4e.gif?imageMogr2/auto-orient/strip)
 
 </div>
-
-
-大家可以向我推荐好的开源项目哦！
 
 
 > 欢迎关注公众号：**前端GitHub**，每周会有一到三篇的文章推送，后台回复 “**电子书**”，获取 160+ 本前端精华电子书哦。
