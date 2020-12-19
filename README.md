@@ -80,6 +80,24 @@
 | Front-End-Interview-Notebook：前端复习笔记 | [https://github.com/CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) |
 | FE-Interview：前端面试必备题库  | [https://github.com/lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) |
 
+### | 简历专题
+
+- [**10 个 GitHub 上最火的程序员简历项目，2021 金三银四必备！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/15)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| ResumeSample：程序员简历模板系列 | [https://github.com/geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) |
+| Markdown-Resume：用 markdown 语法来写的简历模版，非常简结通用 | [https://github.com/CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) |
+| awesome-resume：程序员简历例句，程序员简历范例 | [https://github.com/resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) |
+| DeerResume：好用的 MarkDown 在线简历工具，可在线预览、编辑、设置访问密码和生成 PDF | [https://github.com/geekcompany/DeerResume](https://github.com/geekcompany/DeerResume) |
+| markdown-resume：在线简历排版工具，支持切换 4 种模版、自定义和导出功能 | [https://github.com/mdnice/markdown-resume](https://github.com/mdnice/markdown-resume) |
+| best-resume-ever：快速生成漂亮简历的工具，它基于 Vue 和 LESS | [https://github.com/salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) |
+| awesome-resume-for-chinese：适合中文的简历模板收集 | [https://github.com/dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) |
+| resume：一份优雅简约的简历 | [https://github.com/gwuhaolin/resume](https://github.com/gwuhaolin/resume) |
+| biaochenxuying：非常自由的自定义的前端程序员模版 | [https://github.com/biaochenxuying/blog/blob/master/resume/resume.md](https://github.com/biaochenxuying/blog/blob/master/resume/resume.md) |
+| github-readme-stats：在你的 README 中获取动态生成的 GitHub 统计信息 | [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) |
 
 ### | JavaScript
 
@@ -225,23 +243,6 @@
 | 项目 | 地址 |
 | --- | --- |
 | hacker-laws：最常见的定律、原则等 | [https://github.com/nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) |
-
-
-
-### | JavaScript
-
-
-| 项目 | 地址 |
-| --- | --- |
-| JavaScript 教程 | [https://wangdoc.com/javascript/](https://wangdoc.com/javascript/) |
-| ES6 入门教程 | [https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/) |
-| JavaScript 30：使用原生 JavaScript 在 30 天内完成 30 个项目 | [https://javascript30.com/](https://javascript30.com/) |
-| Codewars：和其他人一起完成真实的代码挑战，提升你的技术 | [https://www.codewars.com/](https://www.codewars.com/) |
-| JavaScript 教程：现代 JavaScript 教程 | [https://zh.javascript.info/](https://zh.javascript.info/) |
-| TypeScript 教程 | [https://github.com/xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) |
-| TypeScript 入门教程 | [https://ts.xcatliu.com/](https://ts.xcatliu.com/) |
-| Node.js学习 | [https://blog.poetries.top/node-learning-notes/](https://blog.poetries.top/node-learning-notes/) |
-
 
 
 ### | 技术社区
