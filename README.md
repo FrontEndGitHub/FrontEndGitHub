@@ -124,6 +124,7 @@
 ### | 前端必备在线工具
 
 - [**白嫖 11 个超火的前端必备在线工具，终于有时间上班摸鱼了**](https://github.com/biaochenxuying/FrontEndGitHub/issues/9)
+- [**推荐 12 个学习前端必备的神仙级工具类项目与网站**](https://github.com/biaochenxuying/FrontEndGitHub/issues/16)
 - 精彩待续。。。
 
 
@@ -140,6 +141,19 @@
 | json 格式化： json 在线解析的网站 | [http://json.cn/](http://json.cn/) |
 | sojson：前端WEB工具大合集 | [https://www.sojson.com/](https://www.sojson.com/) |
 | 站长工具：站长的必备工具 | [https://tool.chinaz.com/](https://tool.chinaz.com/) |
+| codelf：变量命名智能推荐（支持中文） | [https://unbug.github.io/codelf/](https://unbug.github.io/codelf/) |
+| 印象笔记：Web 前端开发人员提供优质中文文档 | [https://www.docschina.org](https://www.docschina.org) |
+| regexr：正则表达式验证匹配 | [https://regexr.com/](https://regexr.com/) |
+| any-rule：正则表达式库，非常全，使用起来很方便 | [https://github.com/any86/any-rule](https://github.com/any86/any-rule) |
+| bootcdn：国内的CDN库，速度快 | [www.bootcdn.cn](https://www.bootcdn.cn/) 或 [cdn.baomitu.com](https://cdn.baomitu.com/) |
+| jsdelivr：国外的 cdn 库，支持 github，npm，WordPress  | [https://www.jsdelivr.com](https://www.jsdelivr.com) |
+| gitignore：根据选择会去生成 .gitignore 文件 | [https://www.gitignore.io/](https://www.gitignore.io/) |
+| codesandbox：在线编辑代码 | [https://codesandbox.io/](https://codesandbox.io/) |
+| typora：实用的 Markdown 写作工具，所见即所得 | [https://www.typora.io](https://www.typora.io) |
+| mdnice：使 markdown 语法更加美观，写作工具(强烈推荐) | [https://mdnice.com](https://mdnice.com) |
+| toptal：多张图片合成雪碧图，并生成对应 css | [https://www.toptal.com/developers/css/sprite-generator](https://www.toptal.com/developers/css/sprite-generator) |
+| tool：众多工具集合，包括时间戳转换，进制转换等 | [https://tool.lu/](https://tool.lu/) |
+
 
 ### | 管理后台 admin
 
