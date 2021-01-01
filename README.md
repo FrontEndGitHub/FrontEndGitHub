@@ -40,11 +40,46 @@
 
 > 欢迎关注公众号：**前端GitHub**，每周会有一到三篇的文章推送，后台回复 “**电子书**”，获取 160+ 本前端精华电子书哦。
 
-<div align="center">
+<!-- <div align="center">
 
 ![FrontEndGitHub](./images/FrontEndGitHub.png)
 
-</div>
+</div> -->
+
+## 目录
+
+- [简介](#简介)
+- [目录](#目录)
+- [文章](#文章)
+  - [| 软技能](#-软技能)
+  - [| 面试专题](#-面试专题)
+  - [| 简历专题](#-简历专题)
+  - [| JavaScript](#-javascript)
+  - [| 前端必备在线工具](#-前端必备在线工具)
+  - [| 管理后台 admin](#-管理后台-admin)
+  - [| 逼格满满的 PPT](#-逼格满满的-ppt)
+  - [| 数据结构与算法](#-数据结构与算法)
+  - [| CSS 学习专题](#-css-学习专题)
+  - [| 小程序](#-小程序)
+  - [| 前端的代码规范](#-前端的代码规范)
+  - [| 开发思想](#-开发思想)
+  - [| 技术社区](#-技术社区)
+  - [| 博客团队](#-博客团队)
+  - [| GitHub 统计](#-github-统计)
+  - [| 前端大会](#-前端大会)
+  - [| 打包工具](#-打包工具)
+  - [| 调试抓包](#-调试抓包)
+  - [| 开发工具](#-开发工具)
+  - [| 图标](#-图标)
+  - [| 色彩](#-色彩)
+  - [| 插画](#-插画)
+  - [| 图片](#-图片)
+  - [| 设计工具](#-设计工具)
+  - [| WEB 技术清单](#-web-技术清单)
+  - [| 学习资源](#-学习资源)
+- [推荐项目](#推荐项目)
+- [撩我](#撩我)
+
 
 ## 文章
 
@@ -59,6 +94,7 @@
 | --- | --- |
 | GitHub 官方文档：使用、搜索、管理开源项目 | [https://docs.github.com/cn](https://docs.github.com/cn) |
 
+[⬆️ 返回首页](#目录)
 
 ### | 面试专题
 
@@ -80,6 +116,8 @@
 | Front-End-Interview-Notebook：前端复习笔记 | [https://github.com/CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) |
 | FE-Interview：前端面试必备题库  | [https://github.com/lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) |
 
+[⬆️ 返回首页](#目录)
+
 ### | 简历专题
 
 - [**10 个 GitHub 上最火的程序员简历项目，2021 金三银四必备！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/15)
@@ -98,6 +136,8 @@
 | resume：一份优雅简约的简历 | [https://github.com/gwuhaolin/resume](https://github.com/gwuhaolin/resume) |
 | biaochenxuying：非常自由的自定义的前端程序员模版 | [https://github.com/biaochenxuying/blog/blob/master/resume/resume.md](https://github.com/biaochenxuying/blog/blob/master/resume/resume.md) |
 | github-readme-stats：在你的 README 中获取动态生成的 GitHub 统计信息 | [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) |
+
+[⬆️ 返回首页](#目录)
 
 ### | JavaScript
 
@@ -120,6 +160,7 @@
 | TypeScript 入门教程：从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript | [https://ts.xcatliu.com](https://ts.xcatliu.com) |
 | w3school：前端必须知道的 Web 技术教程平台 | [https://www.w3school.com.cn/js/index.asp](https://www.w3school.com.cn/js/index.asp) |
 
+[⬆️ 返回首页](#目录)
 
 ### | 前端必备在线工具
 
@@ -154,6 +195,7 @@
 | toptal：多张图片合成雪碧图，并生成对应 css | [https://www.toptal.com/developers/css/sprite-generator](https://www.toptal.com/developers/css/sprite-generator) |
 | tool：众多工具集合，包括时间戳转换，进制转换等 | [https://tool.lu/](https://tool.lu/) |
 
+[⬆️ 返回首页](#目录)
 
 ### | 管理后台 admin
 
@@ -174,7 +216,7 @@
 | eladmin：SpringBoot、Jpa、Security、Redis、Vue 等前后端前沿技术开发 | [https://github.com/elunez/eladmin](https://github.com/elunez/eladmin) |
 | AdminLTE：是一个完全响应的管理模板。基于 Bootstrap 4.5 框架以及 JS / jQuery 插件 | [https://github.com/almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE) |
 
-
+[⬆️ 返回首页](#目录)
 
 ### | 逼格满满的 PPT
 
@@ -187,6 +229,7 @@
 | reveal-md：使用 Markdown 来做 PPT 展示的开源项目 | [https://github.com/webpro/reveal-md](https://github.com/webpro/reveal-md) |
 | reveal.js：使用 html、markdown 写静态的文本，创建功能齐全且美观的 PPT | [https://github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js) |
 
+[⬆️ 返回首页](#目录)
 
 ### | 数据结构与算法
 
@@ -206,6 +249,7 @@
 | JavaScript 更多 ... | [https://github.com/search?l=JavaScript&o=desc&q=algo&s=stars&type=Repositories](https://github.com/search?l=JavaScript&o=desc&q=algo&s=stars&type=Repositories) |
 
 
+[⬆️ 返回首页](#目录)
 
 ### | CSS 学习专题
 
@@ -227,6 +271,23 @@
 | stylus：富有表现力、动态、健壮的 CSS | [https://stylus-lang.com/](https://stylus-lang.com/) |
 
 
+[⬆️ 返回首页](#目录)
+
+### | 小程序
+
+
+| 项目 | 地址 |
+| --- | --- |
+| mpvue：基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系 |  [https://github.com/Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) |
+| wepy：小程序组件化开发框架 |  [https://github.com/Tencent/wepy](https://github.com/Tencent/wepy) |
+| westore：微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发 |  [https://github.com/Tencent/westore](https://github.com/Tencent/westore) |
+| ColorUI：鲜亮的高饱和色彩，专注视觉的小程序组件库 |  [https://github.com/weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) |
+| Gitter：采用 Taro 框架 + Taro UI 进行开发的 demo ， 可能是目前颜值最高的 GitHub 微信小程序客户端 |  [https://github.com/huangjianke/Gitter](https://github.com/huangjianke/Gitter) |
+| Taro：多端统一开发框架，支持用 React 的开发方式编写一次代码 |  [https://github.com/NervJS/taro](https://github.com/NervJS/taro) |
+| Painter：小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片 |  [https://github.com/Kujiale-Mobile/Painter](https://github.com/Kujiale-Mobile/Painter) |
+| kbone：Web 与小程序同构解决方案，微信官方 |  [https://github.com/wechat-miniprogram/kbone](https://github.com/wechat-miniprogram/kbone) |
+
+[⬆️ 返回首页](#目录)
 
 ### | 前端的代码规范
 
@@ -247,6 +308,7 @@
 | ESLint | [https://eslint.org/](https://eslint.org/) |
 | Prettier | [https://prettier.io/](https://prettier.io/) |
 
+[⬆️ 返回首页](#目录)
 
 ### | 开发思想
 
@@ -258,6 +320,7 @@
 | --- | --- |
 | hacker-laws：最常见的定律、原则等 | [https://github.com/nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) |
 
+[⬆️ 返回首页](#目录)
 
 ### | 技术社区
 
@@ -277,7 +340,7 @@
 | W3cplus：是一个致力于推广国内前端行业的技术博客 | [https://www.w3cplus.com/](https://www.w3cplus.com/) |
 | 印记中文：是最权威是技术中文文档社区 | [https://docschina.org/](https://docschina.org/) |
 
-
+[⬆️ 返回首页](#目录)
 
 ### | 博客团队
 
@@ -295,6 +358,7 @@
 | 美团技术团队 | [https://tech.meituan.com/](https://tech.meituan.com/) |
 | 夜尽天明 | [https://github.com/biaochenxuying/blog](https://github.com/biaochenxuying/blog) |
 
+[⬆️ 返回首页](#目录)
 
 ### | GitHub 统计
 
@@ -304,6 +368,7 @@
 | GitHub 全球排名：这个排名很权威 | [https://gitstar-ranking.com/](https://gitstar-ranking.com/) |
 | GitHub 中文排行榜、高分优秀中文项目 | [https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) |
 
+[⬆️ 返回首页](#目录)
 
 ### | 前端大会
 
@@ -316,8 +381,9 @@
 | 中国 CSS 开发者大会：提高 css 开发姿势的大会 | [https://css.w3ctech.com/](https://css.w3ctech.com/) |
 | D2 前端技术论坛：阿里巴巴举办，分享技术的乐趣，探讨行业的发展 | [http://d2forum.alibaba-inc.com/](http://d2forum.alibaba-inc.com/) |
 
+[⬆️ 返回首页](#目录)
 
-### | 构建
+### | 打包工具
 
 
 | 项目 | 地址 |
@@ -329,6 +395,23 @@
 | Babel | [https://babeljs.io/](https://babeljs.io/) |
 | ESLint：可组装的 JavaScript 和 JSX 检查工具 | [https://cn.eslint.org/](https://cn.eslint.org/) |
 | PostCSS：用 JavaScript 工具和插件转换 CSS 代码的工具 | [https://www.postcss.com.cn/](https://www.postcss.com.cn/) |
+| rollup: 打包 npm 库 | [https://github.com/rollup/rollup](https://github.com/rollup/rollup) |
+| parcel: 和 webpack 类似的打包工具 | [https://github.com/parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) |
+| systemjs：针对一些特殊场景会比较有用，比如云 ide，支付宝小程序 IDE 等 | [https://github.com/systemjs/systemjs](https://github.com/systemjs/systemjs) |
+| microbundle：基于 rollup，简化配置 | [https://github.com/developit/microbundle](https://github.com/developit/microbundle) |
+| bili：基于 rollup，同上 | [https://github.com/egoist/bili](https://github.com/egoist/bili) |
+| vue-cli：vue 命令行工具 | [https://github.com/vuejs/vue-cli](https://github.com/vuejs/vue-cli) |
+| create-react-app：react 官方脚手架 | [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app) |
+| prepack：通过预先执行的方式优化打包结果 | [https://github.com/facebook/prepack](https://github.com/facebook/prepack) |
+| swc：基于 rust 的语法转换器，babel 的竞争者 | [https://github.com/swc-project/swc](https://github.com/swc-project/swc) |
+| nathan/pax：基于 rust，据说是这个星球最快的 JavaScript 打包工具 | [https://github.com/nathan/pax](https://github.com/nathan/pax) |
+| pikapkg/web： 浏览器里跑 npm 依赖，面向现代浏览器 | [https://github.com/pikapkg/web](https://github.com/pikapkg/web) |
+| lebab/lebab：把 es5 代码转成 es6，反向 babel | [https://github.com/lebab/lebab](https://github.com/lebab/lebab) |
+| snowpack：现代Web的更快打包工具系统 | [https://github.com/pikapkg/snowpack](https://github.com/pikapkg/snowpack) |
+
+
+
+[⬆️ 返回首页](#目录)
 
 ### | 调试抓包
 
@@ -339,6 +422,7 @@
 | Easy Mock | [https://www.easy-mock.com](https://www.easy-mock.com/) |
 | Fiddler：代理抓包工具 | [https://www.telerik.com/fiddler](https://www.telerik.com/fiddler) |
 
+[⬆️ 返回首页](#目录)
 
 ### | 开发工具
 
@@ -350,6 +434,7 @@
 | WebStorm | [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/) |
 | Atom | [https://atom.io/](https://atom.io/) |
 
+[⬆️ 返回首页](#目录)
 
 ### | 图标
 
@@ -363,6 +448,7 @@
 | Material Design Icons | [https://material.io/resources/icons/](https://material.io/resources/icons/) |
 | Tabler Icons：681 枚可定制的开源 SVG 图标 | [https://tablericons.com/](https://tablericons.com/) |
 
+[⬆️ 返回首页](#目录)
 
 ### | 色彩
 
@@ -377,7 +463,7 @@
 | Colors and Fonts：色彩和字体工具 | [https://colorsandfonts.com/](https://colorsandfonts.com/) |
 | Coolors：配色方案生成工具 | [https://coolors.co/](https://coolors.co/) |
 
-
+[⬆️ 返回首页](#目录)
 
 ### | 插画
 
@@ -391,7 +477,7 @@
 | Blobmaker：在线 SVG 形状生成器 | [https://www.blobmaker.app/](https://www.blobmaker.app/) |
 | Get Waves：在线 SVG 波形生成器 | [https://getwaves.io/](https://getwaves.io/) |
 
-
+[⬆️ 返回首页](#目录)
 
 ### | 图片
 
@@ -409,6 +495,7 @@
 | Online Image Compressor：在线图片压缩工具，一次可以压缩多达 20 张图片 | [https://imagecompressor.com/](https://imagecompressor.com/) |
 | Bulk Resize Photos：最快的在线图片缩放工具（图片缩放和压缩在本地完成，无需上传到服务器 | [https://bulkresizephotos.com/en](https://bulkresizephotos.com/en) |
 
+[⬆️ 返回首页](#目录)
 
 ### | 设计工具
 
@@ -419,6 +506,7 @@
 | 蓝湖：一款产品文档和设计图的在线协作平台 | [https://lanhuapp.com](https://lanhuapp.com) |
 | PxCook（像素大厨）：高效易用的自动标注工具 | [https://www.fancynode.com.cn/pxcook](https://www.fancynode.com.cn/pxcook) |
 
+[⬆️ 返回首页](#目录)
 
 ### | WEB 技术清单
 
@@ -444,6 +532,7 @@
 
 ![devops-map.png](./images/devops-map.png)
 
+[⬆️ 返回首页](#目录)
 
 ### | 学习资源
 
@@ -451,6 +540,7 @@
 - [2. 极客时间上的《TypeScript 开发实战》课程资源，包含课件、思维导图、课程源代码](https://github.com/biaochenxuying/blog/tree/master/typescript-in-action)
 - [3. 视频资料分享 - Vue、React、Node、MongoDB 全栈、打造商城系统、实战项目汇总](https://mp.weixin.qq.com/s/7f767Y5FHM9i2_GeUSz-Iw)
 
+[⬆️ 返回首页](#目录)
 
 ## 推荐项目
 
