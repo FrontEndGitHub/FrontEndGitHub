@@ -50,41 +50,46 @@
 
 - [简介](#简介)
 - [目录](#目录)
-- [文章](#文章)
-  - [| 软技能](#-软技能)
-  - [| 面试专题](#-面试专题)
-  - [| 简历专题](#-简历专题)
-  - [| JavaScript](#-javascript)
-  - [| 前端必备在线工具](#-前端必备在线工具)
-  - [| 管理后台 admin](#-管理后台-admin)
-  - [| 逼格满满的 PPT](#-逼格满满的-ppt)
-  - [| 数据结构与算法](#-数据结构与算法)
-  - [| CSS 学习专题](#-css-学习专题)
-  - [| 小程序](#-小程序)
-  - [| 前端的代码规范](#-前端的代码规范)
-  - [| 开发思想](#-开发思想)
-  - [| 技术社区](#-技术社区)
-  - [| 博客团队](#-博客团队)
-  - [| GitHub 统计](#-github-统计)
-  - [| 前端大会](#-前端大会)
-  - [| 打包工具](#-打包工具)
-  - [| 代码托管平台](#-代码托管平台)
-  - [| 调试抓包](#-调试抓包)
-  - [| 开发工具](#-开发工具)
-  - [| 图标](#-图标)
-  - [| 色彩](#-色彩)
-  - [| 插画](#-插画)
-  - [| 图片](#-图片)
-  - [| 设计工具](#-设计工具)
-  - [| WEB 技术清单](#-web-技术清单)
-  - [| 学习资源](#-学习资源)
+- [文章与项目](#文章与项目)
+  - [软技能](#软技能)
+  - [面试专题](#面试专题)
+  - [简历专题](#简历专题)
+  - [JavaScript](#javascript)
+  - [前端必备在线工具](#前端必备在线工具)
+  - [在线的代码转图片](#在线的代码转图片)
+  - [管理后台 admin](#管理后台-admin)
+  - [逼格满满的 PPT](#逼格满满的-ppt)
+  - [数据结构与算法](#数据结构与算法)
+  - [CSS 学习专题](#css-学习专题)
+  - [小程序](#小程序)
+  - [前端的代码规范](#前端的代码规范)
+  - [设计规范](#设计规范)
+  - [抠图神器](#抠图神器)
+  - [在线绘图](#在线绘图)
+  - [颜色搭配](#颜色搭配)
+  - [开发思想](#开发思想)
+  - [技术社区](#技术社区)
+  - [博客团队](#博客团队)
+  - [GitHub 统计](#github-统计)
+  - [前端大会](#前端大会)
+  - [打包工具](#打包工具)
+  - [代码托管平台](#代码托管平台)
+  - [调试抓包](#调试抓包)
+  - [开发工具](#开发工具)
+  - [图标](#图标)
+  - [色彩](#色彩)
+  - [插画](#插画)
+  - [图片](#图片)
+  - [设计工具](#设计工具)
+  - [WEB 技术清单](#web-技术清单)
+  - [学习资源](#学习资源)
 - [推荐项目](#推荐项目)
 - [撩我](#撩我)
 
 
-## 文章
+## 文章与项目
 
-### | 软技能
+### 软技能
 
 - [**自从掌握了Google和百度的 16 个高级搜索技巧，我再也没有解决不了的 bug 了**](https://github.com/biaochenxuying/FrontEndGitHub/issues/11)
 - [**恕我直言，你可能连 GitHub 搜索都不会用 - 如何精准搜索的神仙技巧**](https://github.com/biaochenxuying/FrontEndGitHub/issues/4)
@@ -97,7 +102,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 面试专题
+### 面试专题
 
 - [**推荐这 10 个 GitHub 上超火的前端面试项目，打造自己的加薪宝库！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/6)
 - 精彩待续。。。
@@ -119,7 +124,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 简历专题
+### 简历专题
 
 - [**10 个 GitHub 上最火的程序员简历项目，2021 金三银四必备！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/15)
 - 精彩待续。。。
@@ -140,7 +145,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | JavaScript
+### JavaScript
 
 - [**12 个 GitHub 上超火的 JavaScript 奇技淫巧项目，找到写 JavaScript 的灵感！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/14)
 - 精彩待续。。。
@@ -160,10 +165,12 @@
 | clean-code-javascript：优秀的 JS 代码规范 | [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) |
 | TypeScript 入门教程：从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript | [https://ts.xcatliu.com](https://ts.xcatliu.com) |
 | w3school：前端必须知道的 Web 技术教程平台 | [https://www.w3school.com.cn/js/index.asp](https://www.w3school.com.cn/js/index.asp) |
+| three.js：JavaScript编辑3D模型，各种各样炫酷的效果以及Documentation值得你去了解[three.js](https://threejs.org/) | [three.js](https://threejs.org/)](https://threejs.org/) |
+
 
 [⬆️ 返回顶部](#目录)
 
-### | 前端必备在线工具
+### 前端必备在线工具
 
 - [**白嫖 11 个超火的前端必备在线工具，终于有时间上班摸鱼了**](https://github.com/biaochenxuying/FrontEndGitHub/issues/9)
 - [**推荐 12 个学习前端必备的神仙级工具类项目与网站**](https://github.com/biaochenxuying/FrontEndGitHub/issues/16)
@@ -174,7 +181,6 @@
 | --- | --- |
 | LightHouse：一个开源的自动化工具，用于改进网络应用的质量 | [https://github.com/GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) |
 | Can I Use：查询 CSS、Js 在个中流行浏览器钟的特性和兼容性的网站 | [https://caniuse.com/](https://caniuse.com/) |
-| Carbon：在线的代码转图片工具 | [https://carbon.now.sh/](https://carbon.now.sh/) |
 | ios font：IOS 字体支持查询和 IOS 系统自带字体查询 | [http://iosfonts.com/](http://iosfonts.com/) |
 | web 安全色：尽量让用户看到色彩相同的网页，请尽量使用 216 色的 web 安全色 | [https://www.bootcss.com/p/websafecolors/](https://www.bootcss.com/p/websafecolors/) |
 | TinyPNG：PNG/JPG 图片在线压缩利器，智能 PNG 和 JPEG 图片压缩 | [https://tinypng.com/](https://tinypng.com/) |
@@ -196,9 +202,21 @@
 | toptal：多张图片合成雪碧图，并生成对应 css | [https://www.toptal.com/developers/css/sprite-generator](https://www.toptal.com/developers/css/sprite-generator) |
 | tool：众多工具集合，包括时间戳转换，进制转换等 | [https://tool.lu/](https://tool.lu/) |
 
+
 [⬆️ 返回顶部](#目录)
 
-### | 管理后台 admin
+### 在线的代码转图片
+
+| 项目 | 地址 |
+| --- | --- |
+| Carbon：在线的代码转图片工具 | [https://carbon.now.sh/](https://carbon.now.sh/) |
+| glorious.codes：在线的代码转图片工具 | [https://glorious.codes/demo](https://glorious.codes/demo) |
+| codezen：在线的代码转图片工具 | [http://codezen.rishimohan.me/](http://codezen.rishimohan.me/) |
+| codeimg：在线的代码转图片工具 | [https://codeimg.io/](https://codeimg.io/) |
+
+[⬆️ 返回顶部](#目录)
+
+### 管理后台 admin
 
 - [**10 个 GitHub 上超火和超好看的管理后台模版，后台管理项目有着落了单**](https://github.com/biaochenxuying/FrontEndGitHub/issues/8)
 - 精彩待续。。。
@@ -219,7 +237,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 逼格满满的 PPT
+### 逼格满满的 PPT
 
 - [**GitHub 标星 54K + 2K！这才是程序员写逼格满满的 PPT 的正确姿势！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/10)
 - 精彩待续。。。
@@ -232,7 +250,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 数据结构与算法
+### 数据结构与算法
 
 - [**7 个GitHub上最火的、最值得前端学习的数据结构与算法项目！没有之一**](https://github.com/biaochenxuying/FrontEndGitHub/issues/2)
 - 精彩待续。。。
@@ -252,7 +270,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | CSS 学习专题
+### CSS 学习专题
 
 - [**[10 个 GitHub 上超火的 CSS 技巧项目，找到写 CSS 的灵感！]**](https://github.com/biaochenxuying/FrontEndGitHub/issues/7)
 - 精彩待续。。。
@@ -269,12 +287,17 @@
 | Animate： 有趣的，跨浏览器的 css3 动画库 | [https://animate.style/](https://animate.style/) |
 | sass：Sass 是一种 CSS 的预编译语言，Sass 为 CSS 赋予了更强大的功能 | [https://sass.bootcss.com/documentation](https://sass.bootcss.com/documentation) |
 | less：Less 是一门 CSS 预处理语言,它扩展了 CSS 语言,增加了变量、Mixin、函数等特性 | [https://less.bootcss.com/](https://less.bootcss.com/) |
-| stylus：富有表现力、动态、健壮的 CSS | [https://stylus-lang.com/](https://stylus-lang.com/) |
+| cssdeck：在线 CSS 前端代码 Demo 样式效果 | [http://cssdeck.com/](http://cssdeck.com/) |
+| codepen：前端炫酷样式效果，各种 loading 效果，在线编程，Vue 组件也特别多 | [https://codepen.io/](https://codepen.io/) |
+| cubic-bezier：CSS3 贝塞尔曲线在线调试工具 | [https://cubic-bezier.com/](https://cubic-bezier.com/) |
+| Snapsvg：SVG 动效的 JS 库,各种炫酷的效果。 | [http://snapsvg.io/](http://snapsvg.io/) |
+| Cool Backgrounds：超酷的背景图片，渐变的色彩的图片背景都有，看起来很酷。 | [https://coolbackgrounds.io/](https://coolbackgrounds.io/) |
+
 
 
 [⬆️ 返回顶部](#目录)
 
-### | 小程序
+### 小程序
 
 
 | 项目 | 地址 |
@@ -290,7 +313,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 前端的代码规范
+### 前端的代码规范
 
 - [**恕我直言，这几个大厂的前端代码规范你可能还不会 - 能精进前端的代码规范**](https://github.com/biaochenxuying/FrontEndGitHub/issues/5)
 - 精彩待续。。。
@@ -311,7 +334,62 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 开发思想
+### 设计规范
+
+
+| 项目 | 地址 |
+| --- | --- |
+| iPhone各设备屏幕尺寸 |  [https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) |
+| 移动屏幕尺寸设计规范 |  [http://screensiz.es/phone](http://screensiz.es/phone) |
+| 微信官方小程序UI样式库 |  [https://weui.io/](https://weui.io/) |
+| 各大尺寸设备响应式屏幕效果显示 |  [http://www.responsinator.com/](http://www.responsinator.com/) |
+
+
+[⬆️ 返回顶部](#目录)
+
+
+### 抠图神器
+
+
+| 项目 | 地址 |
+| --- | --- |
+| removebg | [https://www.remove.bg/zh](https://www.remove.bg/zh) |
+| 在线 ps-uupoop | [https://www.uupoop.com/](https://www.uupoop.com/) |
+
+
+[⬆️ 返回顶部](#目录)
+
+### 在线绘图
+
+
+| 项目 | 地址 |
+| --- | --- |
+| ProcessOn | [https://www.processon.com/](https://www.processon.com/) |
+| draw.io | [https://www.draw.io/](https://www.draw.io/) |
+| excalidraw | [https://excalidraw.com/](https://excalidraw.com/) |
+
+
+[⬆️ 返回顶部](#目录)
+
+
+### 颜色搭配
+
+| 项目 | 地址 |
+| --- | --- |
+| 中科院色谱的中国传统色 | [http://zhongguose.com/#yuhong](http://zhongguose.com/#yuhong) |
+| 在线快速配色生成工具 | [https://coolors.co/](https://coolors.co/) |
+| 每天更新一组简洁舒服的配色方案 | [https://colorhunt.co/](https://colorhunt.co/) |
+| MaterialDesign强大的在线配色 | [https://www.materialpalette.com/blue/purple](https://www.materialpalette.com/blue/purple) |
+| 通过网址获取分析网站配色 | [http://webcolourdata.com/](http://webcolourdata.com/) |
+| 炫酷多边形背景色块生成 | [https://trianglify.io/](https://trianglify.io/) |
+| 色彩搜索引擎 | [https://picular.co/](https://picular.co/) |
+| 流行的网格渐变背景免费下载 | [https://webgradients.com/](https://webgradients.com/) |
+| 上传并匹配提取图片风格的颜色 | [http://www.colorfavs.com/](http://www.colorfavs.com/) |
+
+
+[⬆️ 返回顶部](#目录)
+
+### 开发思想
 
 - [**Github标星1.6W+，程序员不得不知的“潜规则”又火了，早知道就不会秃头了**](https://github.com/biaochenxuying/FrontEndGitHub/issues/3)
 - 精彩待续。。。
@@ -323,7 +401,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 技术社区
+### 技术社区
 
 
 | 项目 | 地址 |
@@ -343,7 +421,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 博客团队
+### 博客团队
 
 
 | 项目 | 地址 |
@@ -361,7 +439,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | GitHub 统计
+### GitHub 统计
 
 
 | 项目 | 地址 |
@@ -371,7 +449,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 前端大会
+### 前端大会
 
 
 
@@ -384,7 +462,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 打包工具
+### 打包工具
 
 
 | 项目 | 地址 |
@@ -414,7 +492,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 代码托管平台
+### 代码托管平台
 
 | 项目 | 地址 |
 | --- | --- |
@@ -431,7 +509,7 @@
 [⬆️ 返回顶部](#目录)
 
 
-### | 调试抓包
+### 调试抓包
 
 
 | 项目 | 地址 |
@@ -442,7 +520,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 开发工具
+### 开发工具
 
 
 | 项目 | 地址 |
@@ -454,7 +532,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 图标
+### 图标
 
 
 | 项目 | 地址 |
@@ -468,7 +546,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 色彩
+### 色彩
 
 
 | 项目 | 地址 |
@@ -483,7 +561,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 插画
+### 插画
 
 
 | 项目 | 地址 |
@@ -497,7 +575,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 图片
+### 图片
 
 
 
@@ -515,7 +593,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 设计工具
+### 设计工具
 
 
 | 项目 | 地址 |
@@ -526,7 +604,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | WEB 技术清单
+### WEB 技术清单
 
 - [**2020-WEB开发路线图，和即将到来的 2021-WEB技术清单**](https://github.com/biaochenxuying/FrontEndGitHub/issues/1)
 - 精彩待续。。。
@@ -552,7 +630,7 @@
 
 [⬆️ 返回顶部](#目录)
 
-### | 学习资源
+### 学习资源
 
 - [1. **160+ 本技术类常用精华电子书开源了，包括 前端、后端、数据结构与算法、计算机基础、设计模式、数据库等书籍**](https://github.com/biaochenxuying/awesome-books)
 - [2. 极客时间上的《TypeScript 开发实战》课程资源，包含课件、思维导图、课程源代码](https://github.com/biaochenxuying/blog/tree/master/typescript-in-action)
