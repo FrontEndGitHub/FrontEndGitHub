@@ -55,6 +55,7 @@
   - [面试专题](#面试专题)
   - [简历专题](#简历专题)
   - [JavaScript](#javascript)
+  - [TypeScript](#typescript)
   - [前端必备在线工具](#前端必备在线工具)
   - [在线的代码转图片](#在线的代码转图片)
   - [管理后台 admin](#管理后台-admin)
@@ -169,6 +170,25 @@
 
 
 [⬆️ 返回顶部](#目录)
+
+### TypeScript
+
+- [**推荐 7 个学习 TypeScript 的宝库，2021 是时候给自己加薪了！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/17)
+- 精彩待续。。。
+
+| 网站 | 说明 |
+| --- | --- |
+| [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript 官网，TS 扩展了 JavaScript ，为它添加了类型支持 |
+| [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) | TypeScript 入门教程，循序渐进的理解 TypeScript |
+| [TypeScript](https://github.com/zhongsp/TypeScript) | TypeScript 使用手册 |
+| [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) | 深入理解 TypeScript |
+| [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) |适用于TypeScript的简洁代码概念 |
+| [TypeScript入门](http://www.imooc.com/learn/763) | TypeScript 入门的视频教程 |
+| [typescript-tutorial](https://github.com/joye61/typescript-tutorial) | TypeScript 速成教程（2小时速成） |
+
+
+[⬆️ 返回顶部](#目录)
+
 
 ### 前端必备在线工具
 
