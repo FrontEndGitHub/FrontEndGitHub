@@ -52,6 +52,7 @@
 - [目录](#目录)
 - [文章与项目](#文章与项目)
   - [软技能](#软技能)
+  - [Vue3](#vue3)
   - [面试专题](#面试专题)
   - [简历专题](#简历专题)
   - [JavaScript](#javascript)
@@ -103,6 +104,34 @@
 
 [⬆️ 返回顶部](#目录)
 
+### Vue3
+
+
+- [**Vue3 的学习教程汇总、源码解释项目、支持的 UI 组件库、优质实战项目**](https://github.com/biaochenxuying/FrontEndGitHub/issues/18)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| Vue3 中文文档 | [https://vue3js.cn/docs/zh/](https://vue3js.cn/docs/zh/) |
+| Vue3 设计理念 | [https://vue3js.cn/vue-composition/](https://vue3js.cn/vue-composition/) |
+| Vue3 相关项目聚合网站 | [https://vue3js.cn/](https://vue3js.cn/) |
+| Vue3 源码 | [https://vue3js.cn/start/](https://vue3js.cn/start/) |
+| Ant-design-vue | [https://antdv.com/docs/vue/introduce-cn/](https://antdv.com/docs/vue/introduce-cn/) |
+| Vant 3.0 | [https://vant-contrib.gitee.io/vant/v3/](https://vant-contrib.gitee.io/vant/v3/) |
+| Element-plus | [https://element-plus.org/#/zh-CN](https://element-plus.org/#/zh-CN) |
+| element 3 | [https://github.com/hug-sun/element3](https://github.com/hug-sun/element3) |
+| vue-vben-admin | [https://github.com/anncwb/vue-vben-admin](https://github.com/anncwb/vue-vben-admin) |
+| vue-admin-beautiful | [https://github.com/chuzhixin/vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) |
+| vue-cli  | [https://github.com/Wscats/vue-cli](https://github.com/Wscats/vue-cli) |
+| movie-trailer  | [https://github.com/lhz960904/movie-trailer](https://github.com/lhz960904/movie-trailer) |
+| newbee-mall-vue3-app  | [https://github.com/newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) |
+| vue3-jd-h5  | [https://github.com/GitHubGanKai/vue3-jd-h5](https://github.com/GitHubGanKai/vue3-jd-h5) |
+
+
+[⬆️ 返回顶部](#目录)
+
+
 ### 面试专题
 
 - [**推荐这 10 个 GitHub 上超火的前端面试项目，打造自己的加薪宝库！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/6)
@@ -122,6 +151,7 @@
 | node-interview：饿了么大前端的面试 | [https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn) |
 | Front-End-Interview-Notebook：前端复习笔记 | [https://github.com/CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) |
 | FE-Interview：前端面试必备题库  | [https://github.com/lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) |
+| web-interview：Vue 面试题库  | [https://github.com/febobo/web-interview](https://github.com/febobo/web-interview) |
 
 [⬆️ 返回顶部](#目录)
 
@@ -664,6 +694,7 @@
 
 ## 撩我
 
+猫哥的年终总结在这里： [前端工程师的 2020 年终总结 - 乾坤未定，你我皆黑马](https://mp.weixin.qq.com/s/qNxmvFxLCQVst4keREc72w)，希望能带给你一点启发。
 
 - [关于猫哥，请点这里](https://github.com/biaochenxuying)
 
@@ -677,17 +708,6 @@
 
 > 欢迎关注公众号：**前端GitHub**，每周会有一到三篇的文章推送，后台回复 “**电子书**”，获取 160+ 本前端精华电子书哦。
 
-<div align="center">
-
-![FrontEndGitHub](./images/FrontEndGitHub.png)
-
-</div>
-
-
-> 微信：**CB834301747**
-
-<div align="center">
-
-![CB834301747](./images/CB834301747.jpeg)
-
-</div>
+| 微信 | 公众号 |
+| :------: |  :------: |
+| 微信：**CB834301747** <div align="center" style="margin-top: 20px;"> ![CB834301747](./images/CB834301747.jpeg) </div> | <div align="center"> ![FrontEndGitHub](./images/FrontEndGitHub.png) </div> |
