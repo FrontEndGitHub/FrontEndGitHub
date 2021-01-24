@@ -499,7 +499,7 @@
 | --- | --- |
 | 腾讯AlloyTeam | [http://www.alloyteam.com/](http://www.alloyteam.com/) |
 | 腾讯社交用户体验ISUX | [https://isux.tencent.com/](https://isux.tencent.com/) |
-| 淘宝FED 淘宝前端团队 | [http://taobaofed.org/](http://taobaofed.org/) |
+| 淘系前端团队 | [https://fed.taobao.org/](https://fed.taobao.org/) |
 | 阿里巴巴国际UED | [http://www.aliued.com/](http://www.aliued.com/) |
 | 京东 凹凸实验室 | [https://aotu.io/](https://aotu.io/) |
 | 饿了么前端 | [https://zhuanlan.zhihu.com/ElemeFE](https://zhuanlan.zhihu.com/ElemeFE) |
