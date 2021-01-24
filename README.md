@@ -58,6 +58,7 @@
   - [JavaScript](#javascript)
   - [TypeScript](#typescript)
   - [前端必备在线工具](#前端必备在线工具)
+  - [计算机内功秘籍](#计算机内功秘籍)
   - [在线的代码转图片](#在线的代码转图片)
   - [管理后台 admin](#管理后台-admin)
   - [逼格满满的 PPT](#逼格满满的-ppt)
@@ -254,6 +255,26 @@
 
 
 [⬆️ 返回顶部](#目录)
+
+### 计算机内功秘籍
+
+- [**推荐 7 个 Github 上近 200k Star 的计算机学习资源，练好前端内功的秘籍！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/20)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| computer-science：通往计算机科学免费自学教育之路！| [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science) |
+| CS-Notes：技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++  | [https://github.com/CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) |
+| REKCARC-TSC-UHT：清华大学计算机系课程攻略 | [https://github.com/PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) |
+| zju-icicles：浙江大学课程攻略共享计划 | [https://github.com/QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) |
+| TeachYourselfCS-CN：仅仅依靠自己，你就可以获得世界一流水平的教育 | [https://github.com/keithnull/TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN) |
+| CS-Xmind-Note：计算机专业课（408）思维导图和笔记 | [https://github.com/SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) |
+| awesome-books：160+ 本开源技术类精华电子书，包括 前端、后端、数据结构与算法、计算机基础、设计模式、数据库等书籍 | [https://github.com/biaochenxuying/awesome-books](https://github.com/biaochenxuying/awesome-books) |
+
+
+[⬆️ 返回顶部](#目录)
+
 
 ### 在线的代码转图片
 
