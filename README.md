@@ -9,8 +9,9 @@
 > **专注于挖掘优秀的前端开源项目，抹平你的前端信息不对称，涵盖 JavaScript、Vue、React、Node、小程序、Flutter、Deno、HTML、CSS 等。**
 
 
-> 2021 前端最强的学习导航: https://www.kwgg2020.com
+> 前端最强的学习导航: https://www.kwgg2020.com
 
+> 猫哥的技术博客地址：https://github.com/biaochenxuying/blog
 
 <div align="center">
 
@@ -20,17 +21,23 @@
 
 ## 简介
 
-大家好，我是你们的 猫哥，一个不喜欢吃鱼、又不喜欢喵 的超级猫 ~
+
+初级前端与高级前端之间，很大原因就是投入学习前端的时间、经验的差别，其实就是信息差。
+
+如果有一个地方能又快又好的获得这些优质的前端信息，那么将会大大缩短从初级到高级的时间。
+
+基于这个初衷，于是就诞生了这个仓库，能帮助前端开发人员节省时间的仓库！
 
 本项目专注于挖掘 GitHub 上优秀的前端开源项目，并以专题的形式推荐，每专题大概 10 个好项目，每周会有一到三篇精华文章推送。
 
 已经推荐了 面试项目、css奇技淫巧项目、代码规范项目、数据结构与算法项目、管理后台模板、前端必备在线工具 等专题的近 200 个优秀项目了。
 
-初步前端与高级前端之间，最大的差距可能就是信息差造成的。
-
 希望你在浏览、学习了超级猫推荐的这些开源项目的过程中，你能学习到更多编程知识、提高编程技巧、找到编程的乐趣。
 
 平时如何发现好的开源项目，可以看看这篇文章：[GitHub 上能挖矿的神仙技巧 - 如何发现优秀开源项目](https://mp.weixin.qq.com/s/98P-ARrYlkmog8i79zX6Og)。
+
+
+> 欢迎关注公众号：**前端GitHub**，后台回复 “**电子书**”，获取 160+ 本前端精华电子书哦。
 
 <div align="center">
 
@@ -38,7 +45,6 @@
 
 </div>
 
-> 欢迎关注公众号：**前端GitHub**，每周会有一到三篇的文章推送，后台回复 “**电子书**”，获取 160+ 本前端精华电子书哦。
 
 <!-- <div align="center">
 
@@ -66,6 +72,7 @@
   - [CSS 学习专题](#css-学习专题)
   - [小程序](#小程序)
   - [前端的代码规范](#前端的代码规范)
+  - [程序员必备仓库](#程序员必备仓库)
   - [设计规范](#设计规范)
   - [抠图神器](#抠图神器)
   - [在线绘图](#在线绘图)
@@ -402,6 +409,27 @@
 | Bootstrap | [https://codeguide.bootcss.com/](https://codeguide.bootcss.com/) |
 | ESLint | [https://eslint.org/](https://eslint.org/) |
 | Prettier | [https://prettier.io/](https://prettier.io/) |
+
+[⬆️ 返回顶部](#目录)
+
+### 程序员必备仓库
+
+- [**推荐程序员必备的 10 大 GitHub 仓库，前端占了 7 个！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/21)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| build-your-own-x：构建自己想做的应用 |  [https://github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) |
+| javascript-algorithms：多种基于 JavaScript 的算法与数据结构 | [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) |
+| computer-science：为所有想要学习计算机科学的人提供了大量的免费学习资源 | [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science) |
+| 30-seconds-of-code：超过 100 个代码段，涵盖了 JavaScript 中的各种内容 | [https://github.com/30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) |
+| nodebestpractices：Node.js 最佳实践中排名最高的内容的总结和分享 | [https://github.com/goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) |
+| realworld：如何使用特定的语言 / 技术开发适当的应用 | [https://github.com/gothinkster/realworld](https://github.com/gothinkster/realworld) |
+| free-programming-books：免费提供编程书籍 | [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |
+| system-design-primer：学习如何设计大型系统，为系统设计面试做准备 | [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) |
+| awesome-python：精选的 Python 框架，库，软件和资源的精选清单 | [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python) |
+| awesome-machine-learning：精选的很棒的机器学习框架，库和软件的列表 | [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) |
 
 [⬆️ 返回顶部](#目录)
 
