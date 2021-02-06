@@ -73,6 +73,7 @@
   - [小程序](#小程序)
   - [前端的代码规范](#前端的代码规范)
   - [程序员必备仓库](#程序员必备仓库)
+  - [拓展程序员技术与视野的国外网站](#拓展程序员技术与视野的国外网站)
   - [设计规范](#设计规范)
   - [抠图神器](#抠图神器)
   - [在线绘图](#在线绘图)
@@ -430,6 +431,40 @@
 | system-design-primer：学习如何设计大型系统，为系统设计面试做准备 | [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) |
 | awesome-python：精选的 Python 框架，库，软件和资源的精选清单 | [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python) |
 | awesome-machine-learning：精选的很棒的机器学习框架，库和软件的列表 | [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) |
+
+[⬆️ 返回顶部](#目录)
+
+
+### 拓展程序员技术与视野的国外网站
+
+- [**涨姿势了！22 个拓展程序员技术与视野的国外网站！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/22)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| GitHub：开源项目仓库 |  [https://github.com](https://github.com) |
+| GitLab：仓库管理系统的开源项目 |  [https://about.gitlab.com/](https://about.gitlab.com/) |
+| dev.to：技术博客社区 |  [https://dev.to/](https://dev.to/) |
+| dreamincode：小众的技术博客 |  [https://www.dreamincode.net](https://www.dreamincode.net) |
+| bytes：和 dreamcode 类似，简约但不简单 |  [https://bytes.com](https://bytes.com) |
+| hongkiat：技术、设计领域相关的技术文章 |  [https://www.hongkiat.com/blog/design-dev](https://www.hongkiat.com/blog/design-dev) |
+| IBM Developer：一线工程师，技术性很强的文章 |  [https://developer.ibm.com](https://developer.ibm.com) |
+| StackOverFlow：专为程序员提供的国际性问题解答交流社区 |  [https://stackoverflow.com](https://stackoverflow.com) |
+| Reddit：非常个性的社区，你可以讨论编程问题，还可以学习学英语 |  [https://www.reddit.com](https://www.reddit.com) |
+| daniweb：质量比较高的问答平台 |  [https://www.daniweb.com](https://www.daniweb.com) |
+| LeetCode：国内的 leetcode 一样都是刷题用的 |  [https://leetcode.com](https://leetcode.com) |
+| LintCode：LintCode 领扣上有数量超过 1000 道的算法题目和人工智能题目 |  [https://www.lintcode.com](https://www.lintcode.com) |
+| Codeforces：全球最著名的在线评测系统之一 |  [http://codeforces.com/](http://codeforces.com/) |
+| Topcoder：世界上规模最大的编程网站 |  [https://www.topcoder.com](https://www.topcoder.com) |
+| tutorialspoint：在线学习的网站，并且免费，里面有各种技术、各个知识点的讲解和demo |  [https://www.tutorialspoint.com/index.htm](https://www.tutorialspoint.com/index.htm) |
+| codecademy：简化编程学习的过程 |  [https://www.codecademy.com](https://www.codecademy.com) |
+| Livecoding.tv：为全球程序员提供一个实时高效的互动平台 |  [https://www.livecoding.tv/accounts/login/](https://www.livecoding.tv/accounts/login/) |
+| Dzone：技术涵盖比较全面的网站 |  [https://dzone.com](https://dzone.com) |
+| simpleprogrammer：纯技术文章不多，指导建议性的文章比较多 |  [https://simpleprogrammer.com/](https://simpleprogrammer.com/) |
+| SitePoint：学习 Web 设计和开发 HTML5，CSS3，JavaScript，PHP，移动应用 |  [https://www.sitepoint.com/web](https://www.sitepoint.com/web) |
+| YouTobe：国内的哔哩哔哩一样，各类视频汇聚于此，当然各国编程大神也在这啦 |  [https://www.youtube.com/](https://www.youtube.com/) |
+
 
 [⬆️ 返回顶部](#目录)
 
