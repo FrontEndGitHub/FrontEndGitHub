@@ -62,6 +62,7 @@
   - [面试专题](#面试专题)
   - [简历专题](#简历专题)
   - [JavaScript](#javascript)
+  - [Flutter](#flutter)
   - [TypeScript](#typescript)
   - [前端必备在线工具](#前端必备在线工具)
   - [计算机内功秘籍](#计算机内功秘籍)
@@ -75,6 +76,9 @@
   - [程序员必备仓库](#程序员必备仓库)
   - [拓展程序员技术与视野的国外网站](#拓展程序员技术与视野的国外网站)
   - [设计规范](#设计规范)
+  - [代码生成器](#代码生成器)
+  - [下载全网视频](#下载全网视频)
+  - [酷炫的极客界面](#酷炫的极客界面)
   - [抠图神器](#抠图神器)
   - [在线绘图](#在线绘图)
   - [颜色搭配](#颜色搭配)
@@ -210,6 +214,21 @@
 
 [⬆️ 返回顶部](#目录)
 
+### Flutter
+
+- [**推荐 4 个基于 Flutter 的重磅高仿开源项目**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/25)
+- 精彩待续。。。
+
+| 网站 | 说明 |
+| --- | --- |
+| [dy_flutter](https://github.com/yukilzw/dy_flutter) | 斗鱼 APP |
+| [flutter_tiktok](https://github.com/mjl0602/flutter_tiktok) | 精仿抖音 |
+| [flutter-osc](https://github.com/yubo725/flutter-osc) | 开源中国客户端 |
+| [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) | 豆瓣客户端 |
+
+
+[⬆️ 返回顶部](#目录)
+
 ### TypeScript
 
 - [**推荐 7 个学习 TypeScript 的宝库，2021 是时候给自己加薪了！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/17)
@@ -267,11 +286,13 @@
 ### 计算机内功秘籍
 
 - [**推荐 7 个 Github 上近 200k Star 的计算机学习资源，练好前端内功的秘籍！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/20)
+- [**Ｂ站收藏 12.5w+！GitHub 标星 6.6k+！这门神课拯救了我薄弱的计算机基础**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/24)
 - 精彩待续。。。
 
 
 | 项目 | 地址 |
 | --- | --- |
+| Crash-Course-Computer-Science-Chinese：计算机科学速成课 | [https://github.com/1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) |
 | computer-science：通往计算机科学免费自学教育之路！| [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science) |
 | CS-Notes：技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++  | [https://github.com/CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) |
 | REKCARC-TSC-UHT：清华大学计算机系课程攻略 | [https://github.com/PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) |
@@ -279,6 +300,7 @@
 | TeachYourselfCS-CN：仅仅依靠自己，你就可以获得世界一流水平的教育 | [https://github.com/keithnull/TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN) |
 | CS-Xmind-Note：计算机专业课（408）思维导图和笔记 | [https://github.com/SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) |
 | awesome-books：160+ 本开源技术类精华电子书，包括 前端、后端、数据结构与算法、计算机基础、设计模式、数据库等书籍 | [https://github.com/biaochenxuying/awesome-books](https://github.com/biaochenxuying/awesome-books) |
+
 
 
 [⬆️ 返回顶部](#目录)
@@ -481,6 +503,47 @@
 
 [⬆️ 返回顶部](#目录)
 
+### 代码生成器
+
+- [**GitHub 2W 星：一键生成前后端代码**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/29)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| jeecg-boot：一键生成前后端代码 |  [https://github.com/zhangdaiscott/jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) |
+
+
+[⬆️ 返回顶部](#目录)
+### 下载全网视频
+
+- [**GitHub 5W 星：一行命令下载全网视频的两个开源项目**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/30)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| you-get：一行命令下载全网视频 |  [https://github.com/soimort/you-get](https://github.com/soimort/you-get) |
+| annie：一行命令下载全网视频 |  [https://github.com/iawia002/annie](https://github.com/iawia002/annie) |
+
+
+[⬆️ 返回顶部](#目录)
+
+### 酷炫的极客界面
+
+- [**被惊艳到了！适用 Win、Mac、Linux，酷炫的极客界面 eDEX-UI**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/26)
+- [**程序员最想要的高逼格，都藏在这个开源项目里了！**](https://github.com/rocksdanister/lively)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| eDEX-UI：酷炫的极客界面 |  [https://github.com/GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) |
+| lively：拉高程序员电脑桌面逼格 |  [http://screensiz.es/phone](http://screensiz.es/phone) |
+
+
+[⬆️ 返回顶部](#目录)
+
 
 ### 抠图神器
 
@@ -584,7 +647,6 @@
 [⬆️ 返回顶部](#目录)
 
 ### 前端大会
-
 
 
 | 项目 | 地址 |
@@ -792,6 +854,6 @@
 
 > 欢迎关注公众号：**前端GitHub**，每周会有一到三篇的文章推送，后台回复 “**电子书**”，获取 160+ 本前端精华电子书哦。
 
-| 微信 | 公众号 |
+| 微信: **CB834301747** | 公众号: **前端GitHub**  |
 | :------: |  :------: |
-| 微信：**CB834301747** <div align="center" style="margin-top: 20px;"> ![CB834301747](./images/CB834301747.jpeg) </div> | <div align="center"> ![FrontEndGitHub](./images/FrontEndGitHub.png) </div> |
+| <div align="center" style="margin-top: 20px;"> ![CB834301747](./images/CB834301747.jpeg) </div> | <div align="center"> ![FrontEndGitHub](./images/FrontEndGitHub.png) </div> |
