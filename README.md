@@ -91,6 +91,9 @@
   - [代码托管平台](#代码托管平台)
   - [调试抓包](#调试抓包)
   - [开发工具](#开发工具)
+  - [录屏工具](#录屏工具)
+  - [买房实用指南](#买房实用指南)
+  - [优质的前端博客](#优质的前端博客)
   - [图标](#图标)
   - [色彩](#色彩)
   - [插画](#插画)
@@ -725,6 +728,57 @@
 | Sublime Text | [https://www.sublimetext.com/](https://www.sublimetext.com/) |
 | WebStorm | [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/) |
 | Atom | [https://atom.io/](https://atom.io/) |
+
+[⬆️ 返回顶部](#目录)
+
+### 录屏工具
+
+- [推荐 GitHub 上很火的录屏工具，秒杀 33 种同行工具](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/31)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| screenity | [https://github.com/alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) |
+
+[⬆️ 返回顶部](#目录)
+
+
+### 买房实用指南
+
+- [推荐 2 个 Github 上超火的程序员买房必备实用指南！](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/32)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| hangzhou_house_knowledge: 杭州 | [https://github.com/houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) |
+| hangzhou_house_knowledge：上海 | [https://github.com/ayuer/shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge) |
+
+
+[⬆️ 返回顶部](#目录)
+
+
+### 优质的前端博客
+
+
+| 公众号 | 作者 | 微信 | 地址 | 简介 |
+| --- | --- | --- | --- | --- |
+| 全栈修炼 | 夜尽天明 | CB834301747 | [https://github.com/biaochenxuying/blog](https://github.com/biaochenxuying/blog) | 分享大前端开发相关的技术文章，热点资源，全栈程序员的成长之路 |
+| 前端下午茶 | SHERlocked93 | qianyu443033099 | [https://github.com/SHERlocked93/blog](https://github.com/SHERlocked93/blog) | 分享前端相关的技术博客、精选文章，期待在这里和大家一起进步！ |
+| 前端UpUp | 天天 | DayDay2021 | [https://github.com/daydaylee1227/leetcode-Algorithms](https://github.com/daydaylee1227/leetcode-Algorithms) | leetcode算法相关的，从0到1刷leetcode。 |
+| 前端从进阶到入院 | ssh | sshsunlight | [https://github.com/sl1673495/blogs](https://github.com/sl1673495/blogs) | 📖全网 100w+ 阅读量的进阶前端技术博客仓库，Vue 源码解析，React 深度实践，TypeScript 进阶艺术，工程化，性能优化实践…… |
+| iCSS前端趣闻 | Coco | coco1s | [https://github.com/chokcoco/iCSS](https://github.com/chokcoco/iCSS) | 9300+ Stars 的 CSS 仓库，各种 CSS 奇技淫巧，在这里，都有。 |
+| 若川视野 | 若川 | ruochuan12 | [https://github.com/lxchuan12/blog](https://github.com/lxchuan12/blog) | 学习源码整体架构系列多篇，前端面试高频源码 |
+| 前端布道师 | 苏南 | su-south | [https://github.com/meibin08/comics-program-life](https://github.com/meibin08/comics-program-life) | 一个用漫画演绎程序员日常轶事、分享前端前沿技术、大厂面经与干货的公众号，号主是个爱画画的前端切图崽，热爱代码的同时，也希望用漫画的形式让更多了解程序员。 |
+| 秋风的笔记 | 秋风 | qiufengblue | [https://github.com/hua1995116/vuepress-blog](https://github.com/hua1995116/vuepress-blog) | 分享工程化、开源知识、有趣的前端知识。 |
+| 前端食堂 | 童欧巴 | hungryturbo | [https://github.com/Geekhyt/front-end-canteen](https://github.com/Geekhyt/front-end-canteen) | 你的前端食堂，吃好每一顿饭🍥 |
+| 深圳湾码农 | Rock | ruanxiongbiao | [https://github.com/qappleh/Interview](https://github.com/qappleh/Interview) | 分享BAT大厂面试题，每天攻破一道题，带你从0到1系统构建web全栈完整的知识体系！ |
+| 进击的大前端 | 蒋鹏飞 | ffx313 | [https://github.com/dennis-jiang/Front-End-Knowledges](https://github.com/dennis-jiang/Front-End-Knowledges) | 成体系的前端进阶知识 |
+| 小鹿动画学编程 | 小鹿 | lxq17853556107 | [https://github.com/luxiangqiang/Blog](https://github.com/luxiangqiang/Blog) | 全Github唯一动画仓库，用动画的形式把前端技术讲的淋漓尽致！也包括自己整理的前端面试和进阶文章分享，欢迎关注哦！ |
+| 编程如画 | 大鹏 | aaron875499765 | [https://github.com/guanpengchn/blog](https://github.com/guanpengchn/blog) | 全网最特别的画解算法，mdnice作者官方博客 |
+| 前端思维框架 | ViktorHub | viktorhub | [https://github.com/ViktorWong/my-docs](https://github.com/ViktorWong/my-docs) | 建设Web全栈数字图书馆，揭秘Web全栈架构师，打造个人核心竞争力。 |
+
 
 [⬆️ 返回顶部](#目录)
 
