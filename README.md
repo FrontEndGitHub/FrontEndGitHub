@@ -59,6 +59,8 @@
 - [文章与项目](#文章与项目)
   - [软技能](#软技能)
   - [Vue3](#vue3)
+  - [Vue 源码解密](#vue-源码解密)
+  - [React 源码解密](#react-源码解密)
   - [面试专题](#面试专题)
   - [简历专题](#简历专题)
   - [JavaScript](#javascript)
@@ -144,6 +146,40 @@
 | newbee-mall-vue3-app  | [https://github.com/newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) |
 | vue3-jd-h5  | [https://github.com/GitHubGanKai/vue3-jd-h5](https://github.com/GitHubGanKai/vue3-jd-h5) |
 
+
+[⬆️ 返回顶部](#目录)
+
+### Vue 源码解密
+
+
+- [**推荐 7 个 Vue2、Vue3 源码解密分析的开源项目 👍 **](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/35)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| vue-analysis：Vue.js 源码分析 | [https://github.com/ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) |
+| vue-design：逐行级别的分析 | [http://hcysun.me/vue-design/zh/](http://hcysun.me/vue-design/zh/) |
+| vue-family-mindmap：用一张思维导图总结了 Vue | Vue-Router | Vuex 源码与架构要点 | [https://github.com/biaochenxuying/vue-family-mindmap](https://github.com/biaochenxuying/vue-family-mindmap) |
+| learnVue：Vue.js 源码分析 | [https://github.com/answershuto/learnVue](https://github.com/answershuto/learnVue) |
+| vue：Vue 源码逐行注释分析 | [https://github.com/qq281113270/vue](https://github.com/qq281113270/vue) |
+| vue2.0-source：Vue 源码分析 | [https://github.com/liutao/vue2.0-source](https://github.com/liutao/vue2.0-source) |
+| Vue3 源码：Vue3 源码系列 | [https://vue3js.cn/start/](https://vue3js.cn/start/) |
+
+
+[⬆️ 返回顶部](#目录)
+
+
+### React 源码解密
+
+
+- [**推荐一个 React 技术揭秘的项目，自顶向下的 React 源码分析 **](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/34)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| just-react：严谨、易懂的 React 源码分析教程 | [https://github.com/BetaSu/just-react](https://github.com/BetaSu/just-react) |
 
 [⬆️ 返回顶部](#目录)
 
