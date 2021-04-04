@@ -8,10 +8,12 @@
 
 > **专注于挖掘优秀的前端开源项目，抹平你的前端信息不对称，涵盖 JavaScript、Vue、React、Node、小程序、Flutter、Deno、HTML、CSS 等。**
 
+> 以最优惠的方式购买极客时间课程：https://github.com/biaochenxuying/preferential-courses ，涵盖了后端、架构、前端、移动、人工智能、大数据、产品、运营、运维、测试等
 
 > 前端最强的学习导航: https://www.kwgg2020.com
 
 > 猫哥的技术博客地址：https://github.com/biaochenxuying/blog
+
 
 <div align="center">
 
