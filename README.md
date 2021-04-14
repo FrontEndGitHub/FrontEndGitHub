@@ -72,6 +72,7 @@
   - [JavaScript](#javascript)
   - [Flutter](#flutter)
   - [TypeScript](#typescript)
+  - [前端监控](#前端监控)
   - [前端必备在线工具](#前端必备在线工具)
   - [计算机内功秘籍](#计算机内功秘籍)
   - [在线的代码转图片](#在线的代码转图片)
@@ -302,6 +303,18 @@
 | [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) |适用于TypeScript的简洁代码概念 |
 | [TypeScript入门](http://www.imooc.com/learn/763) | TypeScript 入门的视频教程 |
 | [typescript-tutorial](https://github.com/joye61/typescript-tutorial) | TypeScript 速成教程（2小时速成） |
+
+
+[⬆️ 返回顶部](#目录)
+
+### 前端监控
+
+- [**推荐 GitHub 2K+ 星：前端监控工具 - webfunny 项目！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/41)
+- 精彩待续。。。
+
+| 网站 | 说明 |
+| --- | --- |
+| [前端监控工具 - webfunny 项目](https://github.com/a597873885/webfunny_monitor) | 一款轻量级前端异常监控和前端性能监控系统 |
 
 
 [⬆️ 返回顶部](#目录)
