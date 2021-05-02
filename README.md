@@ -148,6 +148,7 @@
 
 ![](https://upload-images.jianshu.io/upload_images/12890819-2471aef65143c005.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+- [**影响了一代代前端人的 20 个里程碑式的顶级开源项目！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/45)
 - [**1534K Star！排名前十的 10 大前端顶级开源项目！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/43)
 - [**猛增 110K Star！年增长数最多的 10 大顶级前端学习资源项目！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/37)
 - [**前端最流行的 10 大顶级开源项目！猛增 174K Star！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/39)
