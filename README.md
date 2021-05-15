@@ -62,7 +62,6 @@
 - [简介](#简介)
 - [目录](#目录)
 - [文章与项目](#文章与项目)
-  - [前端监控](#前端监控)
   - [软技能](#软技能)
   - [前端趋势榜](#前端趋势榜)
   - [Vue3](#vue3)
@@ -80,7 +79,9 @@
   - [逼格满满的 PPT](#逼格满满的-ppt)
   - [数据结构与算法](#数据结构与算法)
   - [CSS 学习专题](#css-学习专题)
+  - [Node.js](#nodejs)
   - [小程序](#小程序)
+  - [前端监控](#前端监控)
   - [前端的代码规范](#前端的代码规范)
   - [程序员必备仓库](#程序员必备仓库)
   - [拓展程序员技术与视野的国外网站](#拓展程序员技术与视野的国外网站)
@@ -116,19 +117,6 @@
 
 
 ## 文章与项目
-
-
-### 前端监控
-
-- [**推荐 GitHub 2K+ 星：前端监控工具 - webfunny 项目！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/41)
-- 精彩待续。。。
-
-| 网站 | 说明 |
-| --- | --- |
-| [前端监控工具 - webfunny 项目](https://github.com/a597873885/webfunny_monitor) | 一款轻量级前端异常监控和前端性能监控系统 |
-
-
-[⬆️ 返回顶部](#目录)
 
 
 ### 软技能
@@ -474,6 +462,26 @@
 
 [⬆️ 返回顶部](#目录)
 
+### Node.js
+
+- [**推荐 9 个 Node.js 学习、进阶、debugging 分析、实战 的重磅开源项目 👍**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/43)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| node：最佳的学习资源肯定是 最权威的 Node.js 的官方项目啦。 |  [https://github.com/nodejs/node](https://github.com/nodejs/node) |
+| node-api-cn：Node.js API 中文文档项目 |  [https://github.com/nodejscn/node-api-cn](https://github.com/nodejscn/node-api-cn) |
+| node-in-debugging： Node.js 调试指南的项目 |  [https://github.com/nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging) |
+| nodebestpractices：对Node.js最佳实践中排名最高的内容的总结和分享 |  [https://github.com/goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) |
+| deep-into-node：深入理解 Node.js：核心思想与源码分析 |  [https://github.com/yjhjstz/deep-into-node](https://github.com/yjhjstz/deep-into-node) |
+| Nodejs-Roadmap：Node.js 服务端所涉及的技术栈 |  [https://github.com/qufei1993/Nodejs-Roadmap](https://github.com/qufei1993/Nodejs-Roadmap) |
+| NeteaseCloudMusicApi：网易云音乐 Node.js API service |  [https://github.com/Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) |
+| node-elm：这是基于 node.js + Mongodb 构建的后台系统 |  [https://github.com/bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) |
+| awesome-nodejs：Node.js 资源合集 |  [https://github.com/sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) |
+
+[⬆️ 返回顶部](#目录)
+
 ### 小程序
 
 
@@ -489,6 +497,20 @@
 | kbone：Web 与小程序同构解决方案，微信官方 |  [https://github.com/wechat-miniprogram/kbone](https://github.com/wechat-miniprogram/kbone) |
 
 [⬆️ 返回顶部](#目录)
+
+
+### 前端监控
+
+- [**推荐 GitHub 2K+ 星：前端监控工具 - webfunny 项目！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/41)
+- 精彩待续。。。
+
+| 网站 | 说明 |
+| --- | --- |
+| [前端监控工具 - webfunny 项目](https://github.com/a597873885/webfunny_monitor) | 一款轻量级前端异常监控和前端性能监控系统 |
+
+
+[⬆️ 返回顶部](#目录)
+
 
 ### 前端的代码规范
 
@@ -980,7 +1002,7 @@
 
 想学得快，就得有自己的服务器来折腾才行。
 
-阿里云、腾讯云、华为云 都有，这里购买就是最优惠： [低于 1 折、89/年、229/3年，比学生机还便宜](https://biaochenxuying.cn/articleDetail?article_id=5de65dd90283dc742f8f633a)）
+**阿里云、腾讯云、华为云** 都有，这里购买就是最优惠： [低于 1 折、89/年、229/3年，比学生机还便宜](https://biaochenxuying.cn/articleDetail?article_id=5de65dd90283dc742f8f633a)）
 
 比如笔者的两个网站：
 
