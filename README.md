@@ -86,6 +86,7 @@
   - [程序员必备仓库](#程序员必备仓库)
   - [拓展程序员技术与视野的国外网站](#拓展程序员技术与视野的国外网站)
   - [设计规范](#设计规范)
+  - [可视化](#可视化)
   - [代码生成器](#代码生成器)
   - [下载全网视频](#下载全网视频)
   - [酷炫的极客界面](#酷炫的极客界面)
@@ -140,6 +141,8 @@
 - [**1534K Star！排名前十的 10 大前端顶级开源项目！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/43)
 - [**猛增 110K Star！年增长数最多的 10 大顶级前端学习资源项目！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/37)
 - [**前端最流行的 10 大顶级开源项目！猛增 174K Star！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/39)
+- [**前端月趋势榜：5 月最热门的 20 个前端开源项目 - 又增加了那么多个好的开源项目！ - 2105**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/50)
+- [**前端月趋势榜：4 月最热门的 20 个前端开源项目 - 又增加了那么多个好的开源项目！- 2104**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/46)
 - [**Web 趋势榜：上周最热门的 10 大 Web 项目 - 210410**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/42)
 - [**前端趋势榜：上周最热门的 10 大前端项目 - 210327**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/38)
 - 精彩待续。。。
@@ -464,7 +467,7 @@
 
 ### Node.js
 
-- [**推荐 9 个 Node.js 学习、进阶、debugging 分析、实战 的重磅开源项目 👍**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/43)
+- [**推荐 9 个 Node.js 学习、进阶、debugging 分析、实战 的重磅开源项目 👍**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/47)
 - 精彩待续。。。
 
 
@@ -597,6 +600,19 @@
 | 移动屏幕尺寸设计规范 |  [http://screensiz.es/phone](http://screensiz.es/phone) |
 | 微信官方小程序UI样式库 |  [https://weui.io/](https://weui.io/) |
 | 各大尺寸设备响应式屏幕效果显示 |  [http://www.responsinator.com/](http://www.responsinator.com/) |
+
+
+[⬆️ 返回顶部](#目录)
+
+### 可视化
+
+- [**推荐 brick design全场景可视化拖拽低代码前端框架**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/49)
+- 精彩待续。。。
+
+
+| 项目 | 地址 |
+| --- | --- |
+| brick-design：全场景可视化拖拽低代码前端框架 |  [https://github.com/brick-design/brick-design](https://github.com/brick-design/brick-design) |
 
 
 [⬆️ 返回顶部](#目录)
@@ -816,6 +832,9 @@
 
 ### 开发工具
 
+- [**推荐 12 个提升程序员软技能与效率的必备工具，爱了爱了 👍**](https://github.com/biaochenxuying/FrontEndGitHub/issues/48)
+- 精彩待续。。。
+  
 
 | 项目 | 地址 |
 | --- | --- |
