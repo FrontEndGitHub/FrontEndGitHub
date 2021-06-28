@@ -143,6 +143,7 @@
 - [**前端最流行的 10 大顶级开源项目！猛增 174K Star！**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/39)
 - [**前端月趋势榜：5 月最热门的 20 个前端开源项目 - 又增加了那么多个好的开源项目！ - 2105**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/50)
 - [**前端月趋势榜：4 月最热门的 20 个前端开源项目 - 又增加了那么多个好的开源项目！- 2104**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/46)
+- [**Web 趋势榜：上周最有意思、最热门的 10 大 Web 项目 - 210625**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/51)
 - [**Web 趋势榜：上周最热门的 10 大 Web 项目 - 210410**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/42)
 - [**前端趋势榜：上周最热门的 10 大前端项目 - 210327**](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/38)
 - 精彩待续。。。
