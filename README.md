@@ -978,20 +978,8 @@
 | 项目 | 地址 |
 | --- | --- |
 | developer-roadmap：开发人员路线图，循序渐进的指南和路径，以学习不同的工具或技术 | [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) |
+| developer-roadmap：中文地址 | [https://github.com/kamranahmedse/developer-roadmap/blob/master/translations/chinese](https://github.com/kamranahmedse/developer-roadmap/blob/master/translations/chinese) |
 
-
-**前端开发路线图**
-
-![frontend-map.png](./images/frontend-map.png)
-
-**后端开发路线图**
-
-![frontend-map.png](./images/backend-map.png)
-
-
-**运维开发路线图**
-
-![devops-map.png](./images/devops-map.png)
 
 [⬆️ 返回顶部](#目录)
 
