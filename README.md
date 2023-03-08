@@ -917,7 +917,7 @@
 | Ionicons：精心绘制的开源图标 | [https://ionicons.com/](https://ionicons.com/) |
 | Simple Icons：常见品牌的 SVG 图标：轻快、精美的符号图标，包括常见操作和事项 | [https://simpleicons.org/](https://simpleicons.org/) |
 | Material Design Icons | [https://material.io/resources/icons/](https://material.io/resources/icons/) |
-| Tabler Icons：681 枚可定制的开源 SVG 图标 | [https://tablericons.com/](https://tablericons.com/) |
+| Tabler Icons：3500+ 枚可定制的开源 SVG 图标 | [https://tabler-icons.io/](https://tabler-icons.io/) |
 
 [⬆️ 返回顶部](#目录)
 
