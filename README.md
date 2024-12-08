@@ -8,10 +8,6 @@
 
 > **专注于挖掘优秀的前端开源项目，抹平你的前端信息不对称，涵盖 JavaScript、Vue、React、Node、小程序、Flutter、Deno、HTML、CSS 等。**
 
-> 以最优惠的方式购买极客时间课程：https://github.com/biaochenxuying/preferential-courses ，涵盖了后端、架构、前端、移动、人工智能、大数据、产品、运营、运维、测试等
-
-> 前端最强的学习导航: https://www.kwgg2020.com
-
 > 猫哥的技术博客地址：https://github.com/biaochenxuying/blog
 
 
@@ -39,7 +35,7 @@
 平时如何发现好的开源项目，可以看看这篇文章：[GitHub 上能挖矿的神仙技巧 - 如何发现优秀开源项目](https://mp.weixin.qq.com/s/98P-ARrYlkmog8i79zX6Og)。
 
 
-> 欢迎关注微信公众号 “**[前端GitHub](https://upload-images.jianshu.io/upload_images/12890819-9a13b43f4feb8f84.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)**”，回复 **电子书** 就送你 **1000+** 本精华编程电子书；回复 **1024** 送你一套完整的 **前端** 视频教程。
+> 欢迎关注微信公众号 “**[前端GitHub](https://upload-images.jianshu.io/upload_images/12890819-9a13b43f4feb8f84.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)**”
 
 原创文章都在公众号首发，比博客早一到两篇。
 
@@ -996,8 +992,7 @@
 ### 学习资源
 
 - [1. **160+ 本技术类常用精华电子书开源了，包括 前端、后端、数据结构与算法、计算机基础、设计模式、数据库等书籍**](https://github.com/biaochenxuying/awesome-books)
-- [2. 极客时间上的《TypeScript 开发实战》课程资源，包含课件、思维导图、课程源代码](https://github.com/biaochenxuying/blog/tree/master/typescript-in-action)
-- [3. 视频资料分享 - Vue、React、Node、MongoDB 全栈、打造商城系统、实战项目汇总](https://mp.weixin.qq.com/s/7f767Y5FHM9i2_GeUSz-Iw)
+
 
 [⬆️ 返回顶部](#目录)
 
@@ -1006,7 +1001,6 @@
 - [大家有什么好的开源项目，可以在这里面推荐哦](https://github.com/FrontEndGitHub/FrontEndGitHub/discussions/13)
 
 ## 服务器
-
 
 笔者觉得每个开发者都应该拥有自己的网站和服务器，这可是很酷的事情，学习 Linux、跑跑脚本、建站、搭博客啥的都行啊。
 
@@ -1020,18 +1014,13 @@
 
 想学得快，就得有自己的服务器来折腾才行。
 
-**阿里云、腾讯云、华为云** 都有，这里购买就是最优惠： [低于 1 折、89/年、229/3年，比学生机还便宜](https://biaochenxuying.cn/articleDetail?article_id=5de65dd90283dc742f8f633a)）
+**阿里云、腾讯云、华为云** 都有，低于 1 折、79/年 或者 68/年，比学生机还便宜，点击下面链接购买就是最优惠
 
-比如笔者的两个网站：
-
-> https://biaochenxuying.cn/
-
-> https://www.kwgg2020.com/
+- 阿里云: https://www.aliyun.com/minisite/goods?userCode=g6evk7n0
+- 腾讯云: https://curl.qcloud.com/Xl0KW4nw
 
 
 ## 撩我
-
-猫哥的年终总结在这里： [前端工程师的 2020 年终总结 - 乾坤未定，你我皆黑马](https://mp.weixin.qq.com/s/qNxmvFxLCQVst4keREc72w)，希望能带给你一点启发。
 
 - [关于猫哥，请点这里](https://github.com/biaochenxuying)
 
@@ -1042,16 +1031,10 @@
 
 </div>
 
-
-
 | 微信: **CB834301747** | 公众号: **前端GitHub**  |
 | :------: |  :------: |
 | <div align="center" style="margin-top: 20px;"> ![CB834301747](./images/CB834301747.jpeg) </div> | <div align="center"> ![FrontEndGitHub](./images/FrontEndGitHub.png) </div> |
 
 
-> 欢迎关注微信公众号 “**[前端GitHub](https://upload-images.jianshu.io/upload_images/12890819-9a13b43f4feb8f84.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)**”，回复 **电子书** 就送你 **1000+** 本精华编程电子书；回复 **1024** 送你一套完整的 **前端** 视频教程。
+> 欢迎关注微信公众号 “**[前端GitHub](https://upload-images.jianshu.io/upload_images/12890819-9a13b43f4feb8f84.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)**”
 
-
-![](https://upload-images.jianshu.io/upload_images/12890819-860e00b3a4b6c418.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-有需要的就来拿吧，**绝对免费，无套路获取**。
