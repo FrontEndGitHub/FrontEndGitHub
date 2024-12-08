@@ -1016,7 +1016,7 @@
 
 **阿里云、腾讯云、华为云** 都有，低于 1 折、79/年 或者 68/年，比学生机还便宜，复制下面链接购买就是最优惠
 
-- 阿里云: [https://www.【加上】aliyun.com/minisite/goods?userCode=g6evk7n0](https://www.aliyun.com/minisite/goods?userCode=g6evk7n0)
+- 阿里云: [https://www.【加上】aliyun.com/minisite/goods?userCode=g6evk7n0](https://aliyun.com/minisite/goods?userCode=g6evk7n0)
 - 腾讯云: [https://curl.qcloud.com/Xl0KW4nw](https://curl.qcloud.com/Xl0KW4nw)
 
 
