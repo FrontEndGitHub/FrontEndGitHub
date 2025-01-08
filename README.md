@@ -277,6 +277,7 @@
 | clean-code-javascript：优秀的 JS 代码规范 | [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) |
 | TypeScript 入门教程：从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript | [https://ts.xcatliu.com](https://ts.xcatliu.com) |
 | w3school：前端必须知道的 Web 技术教程平台 | [https://www.w3school.com.cn/js/index.asp](https://www.w3school.com.cn/js/index.asp) |
+| 详细学习 JavaScript - Scaler 主题 | [https://www.scaler.com/topics/javascript/](https://www.scaler.com/topics/javascript/) |
 | three.js：JavaScript编辑3D模型，各种各样炫酷的效果以及Documentation值得你去了解[three.js](https://threejs.org/) | [three.js](https://threejs.org/)](https://threejs.org/) |
 
 
