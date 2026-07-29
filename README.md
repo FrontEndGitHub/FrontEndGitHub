@@ -963,6 +963,7 @@
 | Photopea：在线图片编辑工具，支持大量高级功能 | [https://www.photopea.com/](https://www.photopea.com/) |
 | Online Image Compressor：在线图片压缩工具，一次可以压缩多达 20 张图片 | [https://imagecompressor.com/](https://imagecompressor.com/) |
 | Bulk Resize Photos：最快的在线图片缩放工具（图片缩放和压缩在本地完成，无需上传到服务器 | [https://bulkresizephotos.com/en](https://bulkresizephotos.com/en) |
+| Emote Resizer：一次生成 Twitch、Discord、7TV、Slack 所需的全部表情/徽章/贴纸尺寸（支持动图 GIF，批量处理，全程在浏览器本地完成，无需上传和注册） | [https://emoteresize.com](https://emoteresize.com) |
 
 [⬆️ 返回顶部](#目录)
 
