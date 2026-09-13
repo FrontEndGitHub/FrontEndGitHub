@@ -247,6 +247,7 @@
 | ResumeSample：程序员简历模板系列 | [https://github.com/geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) |
 | Markdown-Resume：用 markdown 语法来写的简历模版，非常简结通用 | [https://github.com/CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) |
 | awesome-resume：程序员简历例句，程序员简历范例 | [https://github.com/resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) |
+| ResumeAI：免费 ATS 简历检测（匿名 3 次/天，免费账号 10 次/天）+ [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) 开源数据集 | [https://withresumeai.com/](https://withresumeai.com/) |
 | DeerResume：好用的 MarkDown 在线简历工具，可在线预览、编辑、设置访问密码和生成 PDF | [https://github.com/geekcompany/DeerResume](https://github.com/geekcompany/DeerResume) |
 | markdown-resume：在线简历排版工具，支持切换 4 种模版、自定义和导出功能 | [https://github.com/mdnice/markdown-resume](https://github.com/mdnice/markdown-resume) |
 | best-resume-ever：快速生成漂亮简历的工具，它基于 Vue 和 LESS | [https://github.com/salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) |
