@@ -963,6 +963,7 @@
 | Photopea：在线图片编辑工具，支持大量高级功能 | [https://www.photopea.com/](https://www.photopea.com/) |
 | Online Image Compressor：在线图片压缩工具，一次可以压缩多达 20 张图片 | [https://imagecompressor.com/](https://imagecompressor.com/) |
 | Bulk Resize Photos：最快的在线图片缩放工具（图片缩放和压缩在本地完成，无需上传到服务器 | [https://bulkresizephotos.com/en](https://bulkresizephotos.com/en) |
+| FileOnTap HEIC 转 PNG：免费浏览器端 HEIC 转 PNG 工具，文件不上传 | [https://fileontap.com/heic-to-png/](https://fileontap.com/heic-to-png/) |
 
 [⬆️ 返回顶部](#目录)
 
